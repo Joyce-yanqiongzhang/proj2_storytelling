@@ -1,0 +1,10 @@
+john # decided # home # replaced <EOL> </s> john was at the grocery store . </s> he decided to get a new charger . </s> he went to the store and bought a new one . </s> he was so happy . </s> he was able to get his new charger . 
+room # wanted # decided # looked # found <EOL> </s> the room was a mess . </s> the room was too big . </s> he wanted to get rid of it . </s> he decided to go to the store . </s> he found a new one . 
+gina # wanted # decided # started # ended <EOL> </s> gina was a very popular girl . </s> she wanted to be a cop . </s> she decided to get a ticket . </s> she went to the local bar . </s> she got a ticket and got a ticket . 
+mailman # mailman # mailman # mailman # mailman <EOL> </s> the mailman was a mailman . </s> the mailman was on the mail . </s> the mailman was n't looking for him . </s> the mailman came to the door . </s> the mailman said he had a package . 
+wife # wife # wife # wife # wife <EOL> </s> my wife is a retired retired man . </s> he is married . </s> his wife is a wife . </s> he has a wife . </s> he is married to her wife . 
+cruise # boat # boat # boat # boat <EOL> </s> the boat went on a cruise . </s> the boat was very long . </s> the boat was very long . </s> the boat was very high . </s> the boat was a huge hit . 
+school # nervous # nervous # nervous # luckily <EOL> </s> i was going to the school . </s> i was nervous about it . </s> i was nervous . </s> i was nervous . </s> i ended up having a great time . 
+family # wanted # food # decided # made <EOL> </s> the family wanted to eat pizza . </s> they wanted to make dinner . </s> they decided to make a pizza . </s> they ate the pizza . </s> they ate the pizza . 
+john # wanted # store # bought # home <EOL> </s> john was at the store . </s> he wanted to buy a new home . </s> he went to the store . </s> he bought a nice new one . </s> john was happy he could n't get the money . 
+walking # suddenly # fell # hurt # hospital <EOL> </s> i was walking through the park yesterday . </s> suddenly i fell . </s> i was rushed to the hospital . </s> i was able to get a tetanus shot . </s> i was able to get a tetanus shot . 

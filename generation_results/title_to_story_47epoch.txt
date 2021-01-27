@@ -1,0 +1,10 @@
+working # suddenly # realized # decided <EOL> </s> i was working in a grocery store . </s> suddenly , i realized i had a lot of money . </s> i decided to get a new one . </s> i was able to get the new one . </s> i was very happy . 
+room # looked window # looked # realized # replace <EOL> </s> the room was in the room . </s> i looked in the window . </s> i realized i had n't seen the wall . </s> i looked under the bed . </s> i could n't find it . 
+pulled # pulled # pulled # pulled # pulled <EOL> </s> the man pulled over . </s> he pulled over to get a flat tire . </s> the cop pulled him over . </s> the man pulled over . </s> the man pulled over . 
+mailman mail # mail # mailman # mailman # mailman <EOL> </s> the mailman was a mailman . </s> he went to the mail to get a mailman . </s> the mailman was a mailman . </s> the mailman was a mailman . </s> he was sent to the mail . 
+family # family # family # family # family <EOL> </s> the family was a family . </s> they had a family . </s> they had a family . </s> they went to a family reunion . </s> they had a great time . 
+cruise # booked cruise # booked cruise # cruise # cruise <EOL> </s> the couple planned a trip to the cruise . </s> they booked a cruise . </s> they booked a cruise . </s> they booked a cruise . </s> they went to the cruise . 
+school # nervous # class # teacher # teacher <EOL> </s> tim was in class . </s> he was nervous about it . </s> he did n't know how to do it . </s> he got a new teacher . </s> he was very nervous about it . 
+turkey # turkey # turkey # turkey # turkey <EOL> </s> the turkey was hot . </s> it was a turkey turkey . </s> the turkey was too hot . </s> the turkey was too hot . </s> the turkey was hot . 
+john # decided # store # bought # john <EOL> </s> john had a new car . </s> he decided to buy a new one . </s> john went to the store to buy a new one . </s> john bought the new car . </s> john bought the new car . 
+kelly # wanted # decided # bought # happy <EOL> </s> kelly was a terrible cook . </s> she wanted to get a new job . </s> she decided to get a new job . </s> she bought a new one . </s> kelly was happy to be a new one . 

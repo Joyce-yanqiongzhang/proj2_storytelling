@@ -1,0 +1,10 @@
+wanted # decided # bought # happy <EOL> </s> i wanted to go to a local store . </s> i decided to buy a new one . </s> i bought a lot of stuff . </s> i was so happy . </s> i was so happy ! 
+wanted # family # decided # bought # loved <EOL> </s> tim wanted to be a princess . </s> he decided to go to the local shelter . </s> he bought a large box of cardboard . </s> he loved it . </s> he loved the tree . 
+loved # wanted # decided # made # loved <EOL> </s> tim loved to play sports . </s> he wanted to go to a local bar . </s> he decided to go to the local bar . </s> he loved his new friends . </s> he loved the new job . 
+camping # bear # bear # bear # bear <EOL> </s> tom was camping . </s> he was playing in the woods . </s> he saw a bear . </s> he was n't sure if he was going to sleep . </s> he was very sad . 
+wanted # decided # bought # home # loved <EOL> </s> tim wanted to go to the zoo . </s> he decided to go to the zoo . </s> he bought a monkey . </s> he took it home . </s> he loved it . 
+woods # wanted # bear # bear # bear <EOL> </s> the bear went to the woods . </s> the bear was very scary . </s> the bear was very scared . </s> the bear ran away . </s> the bear was able to get the bear . 
+loved # decided # loved # decided # loved <EOL> </s> tom loved to go . </s> he decided to go to the beach . </s> he loved the beautiful clouds . </s> tom decided to go to the beach . </s> he loved the beautiful view . 
+fishing # fish # fish # fish # fish <EOL> </s> i went fishing . </s> i went fishing . </s> i went fishing . </s> i was fishing with my friends . </s> i had a great time . 
+hike # wanted # decided # climbed # home <EOL> </s> i went to the park yesterday . </s> i wanted to go hiking . </s> i decided to go hiking . </s> i went to the park . </s> i got a great hike . 
+family # woods # heard # bear # bear <EOL> </s> the family went on a camping trip . </s> they heard a noise . </s> they saw a bear . </s> they went to the woods . </s> they saw a bear . 
