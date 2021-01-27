@@ -1,0 +1,65 @@
+.row_subcontainer{
+    float: left;
+    width: 30%;
+    margin-left: 10px;
+}
+
+h5{
+    font-size: 40px !important;
+}
+
+#take_a_photo, #retake_photo, #confirm_photo{
+    float: left;
+    width: 35%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 80%;
+    font-size: 50px;
+    border-radius: 15px;
+}
+
+#take_picture, #map_character, #generate_story{
+    float: left;
+    width: 70%;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    height: 80%;
+    font-size: 30px;
+    border-radius: 15px;
+}
+
+.window_container{
+    width: 100%;
+    height: 10vh;
+}
+
+.big_container{
+    float: left;
+    width: 95vw;
+    margin-left: 2.5vw;
+    margin-right: 2.5vw;
+}
+
+.row_subcontainer {
+    float: left;
+    width: 48%;
+}
+
+.img_box{
+    position: relative;
+    width: 80%;
+    height: 0;
+    padding-bottom: 80%;
+}
+
+.user_image {
+    position:  absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,7 @@
+USERS
+../static/uploaded_imgs/1611736244.620679user1.png
+../static/uploaded_imgs/1611736275.7082734user1.png
+CHARACTERS
+prince
+Rabbit
+STORY

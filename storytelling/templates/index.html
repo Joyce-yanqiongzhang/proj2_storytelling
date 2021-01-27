@@ -1,0 +1,66 @@
+{% load static %} 
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+        <script src="../static/js/p5.min.js"></script>
+        <script src="../static/js/p5.dom.min.js"></script>
+        <script src="../static/js/p5.sound.min.js"></script>
+        <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+        <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+        <meta charset="utf-8">
+
+    </head>
+    <body>
+        <div class="big_containner" id="video_capture" name="video_capture">
+            <div id="button_div3" style="display:none;">
+                <button class="btn btn-primary" id="add_user" onclick="add_user()"> Add Another </button>
+            </div>
+            <div id="button_div1" style="display:block;">
+                <button class="btn btn-primary" id="take_picture" name="take_picture" onclick="take_picture()"> Take a Pic </button>
+            </div>
+            <div id="button_div2" style="display: none;">
+                <button class="btn btn-primary" id="retake" name="retake" onclick="retake_picture()"> Retake </button>
+                <button class="btn btn-primary" id="confirm" name="confirm" onclick="confirm_picture()"> Confirm </button>
+            </div>
+            <div>
+                <button class="btn btn-primary" id="map_characters" name="map_characters" onclick="map_characters()"> Map Characters </button>
+            </div>
+            <div>
+                <button class="btn btn-primary" id="generate_story" name="generate_story" onclick="generate_story()"> Generate Story </button>
+            </div>
+        </div>
+        
+
+        <div class="big_containner" id="character_container" name="character_container">
+            
+        </div>
+        <div class="big_containner" id="story_container" name="story_container">
+            <div class="dot_container" id="story_base_container">
+                <h4>Storybase: </h4>
+                <h5>Envioronment: </h5>
+                <p id="environment"></p>
+                <h5>Characters: </h5>
+                <p id="character"></p>
+                <h5>Storyline: </h5>
+                <p id="storyline"></p>
+                <h4>Story: </h4>
+                <p id="story"></p>
+
+            </div>
+            <div class="dot_container" id="story_line_container">
+                
+            </div>
+            <div class="dot_container" id="story_container">
+                
+            </div>
+        </div>
+
+        <script src="../static/js/sketch.js"></script>
+
+
+
+    </body>
+</html>

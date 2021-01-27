@@ -1,0 +1,34 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.user_image {
+  width: 150px;
+  size: 50px auto;
+  margin: 10px;
+}
+
+.row_container {
+  float: left;
+  width: 20%;
+  margin: 10px;
+  white-space: normal;
+  word-break: break-all;
+  overflow: scroll;
+}
+
+.big_containner {
+  float: left;
+  width: 90%;
+  margin-left:20px;
+  margin-right: 20px;
+
+}
+
+.btn-primary{
+  margin-top: 5px;
+}

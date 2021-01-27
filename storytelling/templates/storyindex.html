@@ -1,0 +1,65 @@
+{% load static %} 
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+        <script src="../static/js/p5.min.js"></script>
+        <script src="../static/js/p5.dom.min.js"></script>
+        <script src="../static/js/p5.sound.min.js"></script>
+        <script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="../static/css/sepa_style.css">
+        <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+        <meta charset="utf-8">
+
+    </head>
+    <body>
+        <script src="../static/js/storyjs.js"></script>
+        <div class="window_container">
+            <div class="big_container" id="button_container">
+                <div class="row_subcontainer">
+                    <h5>Step1 : Take a picture of your face and join the story.</h5>
+                    <button class="btn btn-primary" id="take_picture" onclick="take_picture()"> Join the Story </button>
+                </div>
+                <div class="row_subcontainer">
+                    <h5>Step2 : Map the current faces to characters.</h5>
+                    <button class="btn btn-primary" id="map_character" onclick="map_character()"> Map Characters </button>
+                </div>
+                <div class="row_subcontainer">
+                    <h5>Step3 : Start story generation.</h5>
+                    <button class="btn btn-primary" id="generate_story" onclick="generate_story()"> Generate Story </button>
+                </div>
+                
+            </div>
+            <div class="big_container" id="user_title">
+                <h5>Current Users: </h5>
+                <div class='row_subcontainer' style="display: none;">
+                    <img src=''>
+                    <h5>User </h5>
+                    <button class="btn btn-primary" onclick="update_content()"> Test update</button>
+                    
+                </div>
+            </div>
+            <div class="big_container" id="user_container">
+            </div>
+            <div class="big_container" id="storyline_container" style="display: none;">
+                <h5>Story Line: </h5>
+                <div>
+                    <h5 id="storyline"></h5>
+                </div>
+            </div>
+            <div class="big_container" id="story_container" style="display: none;">
+                <h5>Story: </h5>
+                <div>
+                    <h5 id="story"></h5>
+                </div>
+            </div>
+            
+        </div>
+
+        
+
+
+
+    </body>
+</html>
