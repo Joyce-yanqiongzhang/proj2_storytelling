@@ -1,0 +1,1000 @@
+stay overnight <EOT> bulrushes	#	man	#	stay overnight	#	prince bade	#	<EOL> 
+fall suddenly <EOT> fall suddenly	#	waist	#	king means	#	burnt	#	<EOL> 
+safely back <EOT> son	#	splendid robes	#	promised	#	home safely	#	<EOL> 
+girls playing <EOT> town	#	turn	#	window	#	girls playing	#	<EOL> 
+home <EOT> vineyard	#	Do	#	spades	#	word	#	<EOL> 
+living creature <EOT> living creature	#	stream	#	victim	#	question	#	<EOL> 
+fine horse <EOT> march home	#	face	#	fine horse	#	stream rose	#	<EOL> 
+queen declared <EOT> queen declared	#	hairy man	#	king ordered	#	great favourite	#	<EOL> 
+great army <EOT> crystal windows	#	council consisted	#	exact truth	#	mind	#	<EOL> 
+trade          mine <EOT> great cleverness	#	built	#	simple    sire	#	clever improvements	#	<EOL> 
+mere smith <EOT> mere smith	#	wild beast	#	eye sees	#	sounds	#	<EOL> 
+royal word <EOT> royal word	#	hear	#	give	#	pardon	#	<EOL> 
+mighty monarch <EOT> king	#	orders	#	busan	#	pride    harsh	#	<EOL> 
+arrive -- <EOT> wise men	#	clever people	#	-- -no	#	guards    hurry	#	<EOL> 
+youngest simon <EOT> youngest simon	#	king	#	princess helena	#	jewels	#	<EOL> 
+king thought <EOT> king thought	#	gave consent	#	princess	#	crystal plank	#	<EOL> 
+knights stood <EOT> struck dumb	#	sail back	#	pride	#	fashion    simon	#	<EOL> 
+fright    expecting <EOT> unlucky man	#	shepherd	#	wood carrying	#	arch unwound	#	<EOL> 
+boy shrank <EOT> boy shrank	#	scabbard	#	driven	#	boy	#	<EOL> 
+morning star <EOT> father	#	morning star	#	sword clanked	#	hangman	#	<EOL> 
+safely back <EOT> safely back	#	nose bled	#	succeeded	#	dress streaming	#	<EOL> 
+men set <EOT> men set	#	princess	#	bored	#	solemnly walled	#	<EOL> 
+make war <EOT> daughter noticed	#	make war	#	mine	#	father	#	<EOL> 
+usual       replied <EOT> usual       replied	#	grows nearest	#	cut	#	princess told	#	<EOL> 
+wicked conduct <EOT> sore strait	#	dreadful war	#	youth	#	alike	#	<EOL> 
+woman began <EOT> answered	#	good temper	#	dragon laughed	#	foolish creature	#	<EOL> 
+rose early <EOT> rose early	#	day long	#	sight	#	steep hill	#	<EOL> 
+shepherd blew <EOT> gold    trust	#	lake	#	greyhounds lie	#	fight	#	<EOL> 
+shepherds dined <EOT> story happened	#	grassy banks	#	man	#	hundred years	#	<EOL> 
+hermit made <EOT> hermit made	#	son       whispered	#	longed	#	<EOL> 
+strange lying <EOT> eyes fell	#	strange lying	#	roses	#	cloak round	#	<EOL> 
+time passed <EOT> loved	#	lived happily	#	strange flowers	#	fourteen years	#	<EOL> 
+light dazzled <EOT> light dazzled	#	peep    wildrose	#	man	#	wildrose smiled	#	<EOL> 
+tripod       asked <EOT> emperor	#	brought instantly	#	royal huntsmen	#	coming round	#	<EOL> 
+maiden slid <EOT> impatiently	#	kettle	#	kettle fell	#	understand	#	<EOL> 
+toil night <EOT> hundred times	#	worker	#	daily bread	#	lack money	#	<EOL> 
+crowded round <EOT> homes    declaring	#	pearls round	#	mothers knitted	#	lying asleep	#	<EOL> 
+discovery tiidu <EOT> short	#	bold thing	#	cautiously bit	#	hastily swallowed	#	<EOL> 
+ten days <EOT> ten days	#	brothers gave	#	brothers	#	small estate	#	<EOL> 
+greatly delighted <EOT> greatly delighted	#	strong	#	queen	#	son found	#	<EOL> 
+sister       cried <EOT> fairies heard	#	young king	#	gathered round	#	sisters	#	<EOL> 
+disgusting object <EOT> disgusting object	#	interest	#	majesty       answered	#	king	#	<EOL> 
+heart beat <EOT> wonderful creature	#	day passed	#	years ago	#	horse	#	<EOL> 
+young man <EOT> young man	#	queen home	#	penalty	#	heart stood	#	<EOL> 
+graciously pleased <EOT> graciously pleased	#	lifted high	#	day	#	day yesterday	#	<EOL> 
+rope round <EOT> rope round	#	king :	#	happy	#	king gave	#	<EOL> 
+strong prince <EOT> strong prince	#	drank till	#	lay dead	#	loss bitterly	#	<EOL> 
+discovery put <EOT> weed	#	discovery put	#	darkness grew	#	prince tripped	#	<EOL> 
+great heave <EOT> strain	#	great heave	#	rock	#	prince began	#	<EOL> 
+head rolled <EOT> "	#	begin	#	head rolled	#	hop	#	<EOL> 
+carefully locked <EOT> beautiful rooms	#	carefully locked	#	bear	#	robbers lay	#	<EOL> 
+companions    hastened <EOT> companions    hastened	#	giant bade	#	villain       cried	#	made brought	#	<EOL> 
+young lad <EOT> young lad	#	master bade	#	tree	#	figure standing	#	<EOL> 
+deadly cold <EOT> evil spirit	#	good fortune	#	rogue	#	knapsack --	#	<EOL> 
+apparition left <EOT> dog pricked	#	spectre	#	spirit promised	#	spectre lied	#	<EOL> 
+scarlet cloak <EOT> fly round	#	hurry back	#	fly violently	#	terror drop	#	<EOL> 
+young folks <EOT> young folks	#	boasted skill	#	quarrel	#	fell    dragging	#	<EOL> 
+night long <EOT> loud lamentations	#	wasted goods	#	patched	#	black woodpecker	#	<EOL> 
+vale    stock <EOT> vale    stock	#	boys spied	#	bird flying	#	red cloak	#	<EOL> 
+strong sack <EOT> strong sack	#	magic root	#	locks built	#	good opportunity	#	<EOL> 
+stayed quietly <EOT> stayed quietly	#	prosperity overflowed	#	peter	#	find	#	<EOL> 
+small hut <EOT> small hut	#	adding kindly	#	sit	#	animal sitting	#	<EOL> 
+returned home <EOT> father thought	#	boy	#	returned home	#	character altogether	#	<EOL> 
+beautiful daughter <EOT> eagle	#	gave orders	#	special aim	#	prince told	#	<EOL> 
+golden flask <EOT> golden flask	#	head    opened	#	dear friend	#	queen remembered	#	<EOL> 
+lying dead <EOT> chance	#	bald-headed king	#	lying dead	#	slowly rose	#	<EOL> 
+queen wished <EOT> belong	#	queen wished	#	air	#	follow	#	<EOL> 
+air    waiting <EOT> air    waiting	#	tiny speck	#	coming straight	#	fallen half	#	<EOL> 
+flowers blossomed <EOT> flowers blossomed	#	rivers overflowed	#	great rock	#	rock	#	<EOL> 
+food scanty <EOT> food scanty	#	mountain spirit	#	gold-bearded man	#	death draws	#	<EOL> 
+happened    till <EOT> eyes	#	large reward	#	gold-bearded man	#	cage	#	<EOL> 
+thousand fold <EOT> shot back	#	good deed	#	vanished	#	dreadful death	#	<EOL> 
+twilight fell <EOT> kinder	#	twilight fell	#	wood-pigeon sitting	#	noble prince	#	<EOL> 
+single grain <EOT> king	#	single grain	#	give orders	#	wicked men	#	<EOL> 
+wild ducks <EOT> bird	#	wild ducks	#	great flock	#	jewels	#	<EOL> 
+lay weeping <EOT> sharp tapping	#	makes	#	musical instrument	#	tail till	#	<EOL> 
+good place <EOT> flew	#	good place	#	dead men	#	sight made	#	<EOL> 
+ogress calmly <EOT> ogress calmly	#	returned home	#	service	#	wrong ox	#	<EOL> 
+young man <EOT> ogress	#	young man	#	bed	#	sun rose	#	<EOL> 
+thick fog <EOT> thick fog	#	cliff jutting	#	fresh fruit	#	minister left	#	<EOL> 
+great people <EOT> remained shut	#	making peace	#	king began	#	great deal	#	<EOL> 
+sooner grown <EOT> heart	#	neighbouring nation	#	wild country	#	princess lineik	#	<EOL> 
+poultry yard <EOT> poultry yard	#	man laid	#	supper	#	great difficulty	#	<EOL> 
+marten remembering <EOT> draw	#	squirrel	#	marten remembering	#	surprise	#	<EOL> 
+friendly manner <EOT> bear explained	#	friendly manner	#	bear agreed	#	simple question	#	<EOL> 
+michael       asked <EOT> michael       asked	#	tree	#	good tree	#	fly	#	<EOL> 
+snow-shoes altogether <EOT> snow-shoes altogether	#	poor magpie	#	head drooping	#	forest knew	#	<EOL> 
+poor animal <EOT> loss greatly	#	comfortable cave	#	mourner       answered	#	cried	#	<EOL> 
+wail properly <EOT> wail properly	#	storehouse	#	finer	#	bear carried	#	<EOL> 
+howl    godfather <EOT> quietly eating	#	ran back	#	storehouse    michael	#	escaped    flung	#	<EOL> 
+dowry trouble <EOT> offer	#	dowry trouble	#	count piro	#	dowry       asked	#	<EOL> 
+finished dinner <EOT> count piro	#	round	#	pears	#	life       answered	#	<EOL> 
+count piro <EOT> count piro	#	ditch	#	fox sprang	#	joke	#	<EOL> 
+young man <EOT> thing	#	young man	#	end	#	laid side	#	<EOL> 
+rope held <EOT> rope held	#	young man	#	wonderful thing	#	loss	#	<EOL> 
+green grass <EOT> green grass	#	bells visible	#	bells rang	#	master	#	<EOL> 
+carried straight <EOT> wind	#	carried straight	#	stood watching	#	herdsman	#	<EOL> 
+wicked scheme <EOT> son told	#	wicked scheme	#	cherished ox	#	cast round	#	<EOL> 
+wretch       cried <EOT> wretch       cried	#	truth	#	Come	#	dead man	#	<EOL> 
+nuts grow <EOT> peter stayed	#	year consisted	#	nuts grow	#	farewell	#	<EOL> 
+wedding feast <EOT> wedding feast	#	mistaken    --	#	speech	#	back	#	<EOL> 
+passed    till <EOT> son    quick	#	peter	#	moment       cried	#	wind	#	<EOL> 
+good day <EOT> mother	#	good day	#	food	#	peace	#	<EOL> 
+abu nowas <EOT> money freely	#	cloak apiece	#	door	#	weep	#	<EOL> 
+hundred pieces <EOT> grand vizir	#	heart	#	anxiously	#	time	#	<EOL> 
+bones       shave <EOT> am	#	bones       shave	#	lose	#	ground began	#	<EOL> 
+good temper <EOT> asked	#	running	#	good temper	#	baby       grumbled	#	<EOL> 
+cried       motikatika <EOT> cried       motikatika	#	plan	#	eat	#	lake	#	<EOL> 
+nights aren <EOT> rate	#	nights aren	#	find	#	road split	#	<EOL> 
+climbed back <EOT> large piece	#	bullet struck	#	tricks       growled	#	touched	#	<EOL> 
+niels climbed <EOT> tricks	#	niels climbed	#	ll put	#	niels gave	#	<EOL> 
+long grass <EOT> long grass	#	niels	#	kennel	#	fell dead	#	<EOL> 
+gold-hemmed handkerchief <EOT> castle	#	wait	#	gold-hemmed handkerchief	#	niels tore	#	<EOL> 
+written <EOT> lodging	#	put	#	story	#	father	#	<EOL> 
+north jutland <EOT> sons	#	life	#	is	#	north jutland	#	<EOL> 
+usual penalty <EOT> niels wondered	#	princess recognised	#	niels	#	poor sheep-farmer	#	<EOL> 
+maiden heard <EOT> younger sisters	#	set free	#	golden rod	#	golden apple	#	<EOL> 
+cried    rearing <EOT> cried    rearing	#	upward cut	#	twelve lay	#	paul changed	#	<EOL> 
+unfortunate friends <EOT> son	#	unfortunate friends	#	delicious	#	proudly	#	<EOL> 
+body hanging <EOT> dead       cried	#	body hanging	#	coming forward	#	whispered softly	#	<EOL> 
+tanaki stuck <EOT> tanaki stuck	#	undertake	#	disguise	#	tanuki agreed	#	<EOL> 
+horse gullfaxi <EOT> years ago	#	sad loss	#	noticed	#	surprised	#	<EOL> 
+wife told <EOT> home       ingiborg	#	hiding-place	#	wife told	#	home	#	<EOL> 
+helga tucked <EOT> helga tucked	#	place smells	#	bed    helga	#	troubled	#	<EOL> 
+tiny chink <EOT> belonged	#	answer	#	begged helga	#	sigurd declared	#	<EOL> 
+ready saddled <EOT> find happiness	#	horse sigurd	#	mere idea	#	ride gullfaxi	#	<EOL> 
+mounting gullfaxi <EOT> fallen	#	mounting gullfaxi	#	hung	#	beautiful	#	<EOL> 
+suddenly met <EOT> tears pouring	#	arriving found	#	hand    fell	#	father	#	<EOL> 
+hand graciously <EOT> fine robe	#	long thought	#	good fellow	#	master tailor	#	<EOL> 
+surprise heard <EOT> surprise heard	#	earliest childhood	#	twenty-second birthday	#	twenty-two years	#	<EOL> 
+happy tailor <EOT> happy tailor	#	real prince	#	proudest king	#	courage sprang	#	<EOL> 
+pillar stood <EOT> stately person	#	high rank	#	seek	#	joy	#	<EOL> 
+half-crazy tailor <EOT> half-crazy tailor	#	words infuriated	#	poor fellow	#	dromedary	#	<EOL> 
+real son <EOT> real son	#	mistake	#	difficult matter	#	wisest ladies	#	<EOL> 
+proud air <EOT> led	#	son    doubts	#	birth	#	choose	#	<EOL> 
+warmly welcomed <EOT> warmly welcomed	#	constant succession	#	air resounded	#	lame paw	#	<EOL> 
+contained oil <EOT> liquid shining	#	moustaches stood	#	oil jar	#	deserved	#	<EOL> 
+time put <EOT> time put	#	father gatto	#	golden star	#	furious	#	<EOL> 
+led past <EOT> adored lizina	#	fair lizina	#	song broke	#	head	#	<EOL> 
+eighteenth birthday <EOT> eighteenth birthday	#	sight	#	reach	#	dead people	#	<EOL> 
+eighteenth birthday <EOT> eighteenth birthday	#	give heed	#	long journey	#	inn invite	#	<EOL> 
+biggest bit <EOT> biggest bit	#	part company	#	farewell	#	son    glad	#	<EOL> 
+parents made <EOT> St	#	parents made	#	friend	#	hands	#	<EOL> 
+small house <EOT> stood	#	home	#	small house	#	coming spread	#	<EOL> 
+son shrieked <EOT> instant	#	baby dearly	#	grew strong	#	child lay	#	<EOL> 
+man returned <EOT> sick man	#	son	#	father sadly	#	holy man	#	<EOL> 
+king replied <EOT> king replied	#	elder girls	#	bottle    ran	#	woman    thrusting	#	<EOL> 
+caught hold <EOT> bring	#	lemon bushes	#	window	#	garden	#	<EOL> 
+lived happily <EOT> man	#	lived happily	#	japan    high	#	slid back	#	<EOL> 
+turned round <EOT> turned round	#	kettle	#	bottom	#	fire    filled	#	<EOL> 
+spout grew <EOT> ceiling    till	#	wooden chest	#	troublesome beast	#	passing send	#	<EOL> 
+neighbour foretold <EOT> neighbour foretold	#	feel happy	#	honest man	#	seller	#	<EOL> 
+princely arts <EOT> princely arts	#	azure heaven	#	condition	#	possessions	#	<EOL> 
+desert    withholding <EOT> killed	#	state business	#	heart	#	moths round	#	<EOL> 
+camels laden <EOT> flashing stones	#	king quimus	#	riddle	#	weighty matter	#	<EOL> 
+eloquent tongue <EOT> eloquent tongue	#	servant fetched	#	stupefaction	#	black raiment	#	<EOL> 
+inflowing water <EOT> inflowing water	#	great walls	#	loin cloth	#	running water	#	<EOL> 
+royal seat <EOT> purest water	#	night	#	pert-faced girls	#	attar perfumed	#	<EOL> 
+night thinking <EOT> provide	#	prince thought	#	prince	#	night thinking	#	<EOL> 
+princess commanded <EOT> girls    paid	#	princess noticed	#	thing dilaram	#	private place	#	<EOL> 
+hundred lives <EOT> hundred lives	#	resolve	#	important piece	#	ill god	#	<EOL> 
+middle path <EOT> thousand lives	#	thy servant	#	purpose lies	#	lead	#	<EOL> 
+lady jamila <EOT> raised seat	#	wonderful deer	#	jamila darted	#	girl cried	#	<EOL> 
+hundred hearts <EOT> hundred hearts	#	thousand times	#	story	#	prince almas-ruh-bakhsh	#	<EOL> 
+long road <EOT> long road	#	red transgressor	#	cut pieces	#	perfect friendship	#	<EOL> 
+serving lions <EOT> mouth	#	king-lion signed	#	platform	#	<EOL> 
+collar    tucked <EOT> prince	#	collar    tucked	#	full length	#	waist	#	<EOL> 
+mountain-like dragon <EOT> horse	#	stones beneath	#	thousand names	#	solomon round	#	<EOL> 
+utmost kindness <EOT> prince	#	royal guest-house	#	pleasantly	#	give	#	<EOL> 
+head instantly <EOT> prince almas	#	astounded	#	head instantly	#	pleasant talk	#	<EOL> 
+meanly dressed <EOT> bare floor	#	glorious sun	#	long sigh	#	spread	#	<EOL> 
+sickness touched <EOT> beauty	#	sickness touched	#	mingled delight	#	rose    bereft	#	<EOL> 
+collected amber-wood <EOT> collected amber-wood	#	torture	#	anointers	#	nights	#	<EOL> 
+king heard <EOT> prince	#	thanked heaven	#	egg resting	#	hospitably entertained	#	<EOL> 
+king sinaubar <EOT> riddle	#	queen gul	#	present	#	great rejoicing	#	<EOL> 
+country word <EOT> country word	#	rubies --	#	hidden things	#	son	#	<EOL> 
+persian mss <EOT> cypress	#	persian mss	#	india office	#	beveridge	#	<EOL> 
+good spirits <EOT> ball	#	fast long	#	river tie	#	afraid    trust	#	<EOL> 
+buffalo skins <EOT> footsteps	#	footsteps leading	#	hastily wished	#	servant    shaking	#	<EOL> 
+boy wished <EOT> side	#	water demons	#	water	#	boy wished	#	<EOL> 
+delightful       answered <EOT> strongest	#	delightful       answered	#	short race	#	witch	#	<EOL> 
+poor girl <EOT> heavy heart	#	great deal	#	beloved redbreast	#	cure	#	<EOL> 
+dig hard <EOT> dig hard	#	pole back	#	hut --	#	bury	#	<EOL> 
+good spirits <EOT> hut	#	good spirits	#	hunt	#	set	#	<EOL> 
+yellow mimosa <EOT> yellow mimosa	#	raw meat	#	home empty-handed	#	heavy fish	#	<EOL> 
+cold touched <EOT> cold touched	#	claws	#	noise	#	sitting easily	#	<EOL> 
+people called <EOT> father grumbler	#	grew weary	#	friends	#	care	#	<EOL> 
+lay hands <EOT> plenty	#	telling	#	lay hands	#	cellar    hoping	#	<EOL> 
+woman fetched <EOT> long	#	father grumbler	#	thin soup	#	appetites    children	#	<EOL> 
+holy man <EOT> basket	#	holy man	#	directions made	#	man sleepy	#	<EOL> 
+flack    flick <EOT> basket	#	basket       interrupted	#	teach	#	quick	#	<EOL> 
+treasures home <EOT> treasures home	#	father grumbler	#	evening --	#	great river	#	<EOL> 
+flowering plants <EOT> grey    shrieked	#	maiden waiting	#	evening	#	answered	#	<EOL> 
+asked    trembling <EOT> heart	#	fright	#	Promise	#	asked    trembling	#	<EOL> 
+promise       answered <EOT> promise       answered	#	bring back	#	prisoners       retorted	#	sha	#	<EOL> 
+relations    carried <EOT> man	#	want	#	relations    carried	#	deliver	#	<EOL> 
+chief managed <EOT> bodies swaying	#	left hand	#	large stone	#	reigning king	#	<EOL> 
+beautiful lady <EOT> beautiful lady	#	lady	#	affairs	#	young queen	#	<EOL> 
+so-called page <EOT> well-proved knight	#	horses reel	#	steadily backward	#	rise	#	<EOL> 
+robber band <EOT> thing	#	robber band	#	prize	#	word prevented	#	<EOL> 
+young men <EOT> young men	#	turned	#	time	#	brides    father	#	<EOL> 
+helga <EOT> cow	#	horse	#	choose	#	white	#	<EOL> 
+lift helga <EOT> lift helga	#	prettier place	#	steps	#	beauty	#	<EOL> 
+helga felt <EOT> scattered	#	helga felt	#	promised	#	company	#	<EOL> 
+mountain opened <EOT> bears sitting	#	bow fall	#	servants       asked	#	arrows sticking	#	<EOL> 
+busy making <EOT> busy making	#	thirsty	#	tree koumongoe	#	koane       cried	#	<EOL> 
+grumbled koane <EOT> grumbled koane	#	sharp blow	#	milk	#	hole	#	<EOL> 
+catching sight <EOT> catching sight	#	instantly commanded	#	stood ready	#	servant returned	#	<EOL> 
+ogre sees <EOT> ogre sees	#	true       replied	#	care	#	baby	#	<EOL> 
+dared    playing <EOT> doubting	#	lake	#	dilah    dilah	#	dared    playing	#	<EOL> 
+time thakane <EOT> glad	#	asked	#	girl appears	#	husband began	#	<EOL> 
+walking       continued <EOT> walking       continued	#	truth       retorted	#	walking       replied	#	roll       answered	#	<EOL> 
+ring round <EOT> persons    found	#	sulky voice	#	rolled	#	accident	#	<EOL> 
+bits wrong <EOT> pieces	#	bits wrong	#	angry	#	useless creature	#	<EOL> 
+berries make <EOT> bear	#	berries make	#	cranberries touched	#	dreamt	#	<EOL> 
+girl thought <EOT> cared --	#	rat	#	greater passion	#	beauty places	#	<EOL> 
+flattered       replied <EOT> greater	#	have	#	flattered       replied	#	great honour	#	<EOL> 
+moment angry <EOT> rat son-in-law	#	days	#	king	#	islands    revolted	#	<EOL> 
+bed wondering <EOT> sides    expecting	#	foolish thing	#	child	#	queen agreed	#	<EOL> 
+palace gardens <EOT> palace gardens	#	leather knapsack	#	bade farewell	#	strange birds	#	<EOL> 
+gladly picked <EOT> gladly picked	#	lie	#	sun rose	#	lion    shaking	#	<EOL> 
+worth calling <EOT> worth calling	#	forest    felt	#	honeysuckle branch	#	cross voice	#	<EOL> 
+bear       thought <EOT> supper	#	bee departed	#	bear       thought	#	wished	#	<EOL> 
+bumble-bee buzzing <EOT> bumble-bee buzzing	#	bad dream	#	bee disappeared	#	cried	#	<EOL> 
+red knight <EOT> room       cried	#	wind back	#	precious parcel	#	easily outstripped	#	<EOL> 
+sword       asked <EOT> sword       asked	#	gold ring	#	ring	#	marriage feast	#	<EOL> 
+practice slinging <EOT> sunset    kabo	#	practice slinging	#	make strings	#	kabo stood	#	<EOL> 
+quiet    won <EOT> kind lady	#	grasshopper	#	head	#	shake	#	<EOL> 
+ran <EOT> river	#	cried	#	woman	#	playing	#	<EOL> 
+shell-fish opened <EOT> pivi	#	shell shut	#	pretty girls	#	kabo pretended	#	<EOL> 
+dear wives <EOT> dear wives	#	word	#	hill	#	pieces	#	<EOL> 
+series iii <EOT> series iii	#	vol	#	ix	#	pp	#	<EOL> 
+bad weather <EOT> bad weather	#	fished daily	#	youths remarked	#	truth managed	#	<EOL> 
+sail back <EOT> sail back	#	suddenly called	#	good fellow	#	steep hank	#	<EOL> 
+girl bade <EOT> questions	#	beautiful cow-house	#	girl bade	#	great feast	#	<EOL> 
+jaw dropped <EOT> strip	#	jaw dropped	#	gasped	#	boy	#	<EOL> 
+long rope <EOT> sealed	#	grassy meadow	#	sheep	#	hand	#	<EOL> 
+fool       cried <EOT> wedding       answered	#	safe       replied	#	catch	#	back	#	<EOL> 
+poor husband <EOT> forest	#	meal	#	poor husband	#	smile	#	<EOL> 
+find <EOT> find	#	wood	#	work	#	forest	#	<EOL> 
+man left <EOT> pay	#	neighbour	#	Take	#	hidden treasure	#	<EOL> 
+enchanted head <EOT> count	#	stay	#	small cottage	#	city	#	<EOL> 
+woman rose <EOT> woman rose	#	human head	#	body joined	#	good mother	#	<EOL> 
+master    desires <EOT> woman	#	plenty	#	met	#	loud	#	<EOL> 
+golden hen <EOT> found sticking	#	question began	#	prince declared	#	feather belonged	#	<EOL> 
+asked leave <EOT> boy    peeping	#	asked leave	#	sun rose	#	golden hens	#	<EOL> 
+made straight <EOT> made straight	#	wonderful splendours	#	sisters	#	sun sleeping	#	<EOL> 
+turned back <EOT> stopped	#	asleep	#	turned back	#	hen	#	<EOL> 
+youth left <EOT> hen till	#	youth left	#	fox    shaking	#	search	#	<EOL> 
+long time <EOT> long time	#	fox stood	#	minutes	#	outstretched arms	#	<EOL> 
+arms       replied <EOT> missed	#	arms       replied	#	safe	#	good start	#	<EOL> 
+young man <EOT> forest	#	ground	#	chips	#	young man	#	<EOL> 
+man interfered <EOT> man interfered	#	broad river	#	juicy fruits	#	turned pale	#	<EOL> 
+young man <EOT> young man	#	hissed loudly	#	sword ready	#	rowed back	#	<EOL> 
+advice surprised <EOT> hut beckoned	#	know	#	eldest sister	#	good deal	#	<EOL> 
+powerful fairies <EOT> wonderful baby	#	fairies eagerly	#	asked anxiously	#	fairies looked	#	<EOL> 
+properly perfumed <EOT> long journey	#	come	#	mother died	#	harm	#	<EOL> 
+young man <EOT> noble air	#	royal blood	#	story	#	young couple	#	<EOL> 
+full speed <EOT> grown	#	river	#	full speed	#	voice spoke	#	<EOL> 
+crocodile called <EOT> run	#	crocodile called	#	escape	#	four-leaved herb	#	<EOL> 
+hole    watching <EOT> shore	#	fate	#	hole    watching	#	asleep	#	<EOL> 
+crouched eagerly <EOT> crouched eagerly	#	reindeer	#	bound tightly	#	merrily	#	<EOL> 
+body flung <EOT> body flung	#	fox	#	tapping	#	birds	#	<EOL> 
+moved uneasily <EOT> moved uneasily	#	suffer pain	#	victim tumbling	#	charred bones	#	<EOL> 
+fox drove <EOT> peace till	#	great crashing	#	part	#	shot	#	<EOL> 
+road till <EOT> road till	#	fox politely	#	passed	#	early bee	#	<EOL> 
+dear kitten <EOT> cat	#	dear kitten	#	cry       answered	#	good	#	<EOL> 
+drank greedily <EOT> kisa arranged	#	bleeding legs	#	pain vanished	#	leave	#	<EOL> 
+mere girl <EOT> asleep	#	door	#	open door	#	great pot	#	<EOL> 
+greatly pleased <EOT> splendid feast	#	arms	#	cat	#	bed	#	<EOL> 
+younger brother <EOT> younger brother	#	run faster	#	grizzly bear	#	smoked glass	#	<EOL> 
+boy-brother    springing <EOT> boy-brother    springing	#	man-brother	#	run half	#	ate	#	<EOL> 
+light sleeper <EOT> light sleeper	#	thought	#	single bird	#	dreadfully dull	#	<EOL> 
+full length <EOT> back	#	body cautiously	#	stout	#	loud crack	#	<EOL> 
+cat intended <EOT> difficult	#	ball	#	ground	#	cats	#	<EOL> 
+long time <EOT> reach	#	long	#	long time	#	possibly	#	<EOL> 
+high mountain <EOT> chance	#	iron door	#	maidens weeping	#	wide plain	#	<EOL> 
+women -- <EOT> women --	#	neighbour	#	boiling soup	#	top window	#	<EOL> 
+poisonous stuff <EOT> proper food	#	sick mother	#	fifty ducks	#	foolish	#	<EOL> 
+kitchen table <EOT> big scissors	#	sewing	#	woman patted	#	patted	#	<EOL> 
+man lay <EOT> spoken	#	wife	#	warm	#	man lay	#	<EOL> 
+thing       replied <EOT> man heard	#	work	#	thing       replied	#	sun rises	#	<EOL> 
+villagers declared <EOT> step	#	asked	#	stupider	#	villagers declared	#	<EOL> 
+prince asmund <EOT> bride returned	#	lived happily	#	story	#	vast under-world	#	<EOL> 
+poor cottage <EOT> young man	#	fairly dazzled	#	velvet lawns	#	rarest flowers	#	<EOL> 
+magic delights <EOT> magic delights	#	vain	#	sociable creatures	#	lovely mortal	#	<EOL> 
+made experiments <EOT> longed-for person	#	tiny turnip	#	softly hum	#	single word	#	<EOL> 
+poor chatterpie <EOT> great stone	#	stood motionless	#	chattering    began	#	anxiously questioned	#	<EOL> 
+ah       cried <EOT> love	#	heart answers	#	fades	#	proof    sweetheart	#	<EOL> 
+beautiful stag <EOT> beautiful stag	#	beast	#	human creature	#	lost	#	<EOL> 
+king    giving <EOT> king    giving	#	peace       answered	#	minute	#	hermit threw	#	<EOL> 
+long time <EOT> king	#	wisdom	#	long time	#	king urged	#	<EOL> 
+handsome present <EOT> wild desert	#	blow chopped	#	solitary place	#	small village	#	<EOL> 
+dangerous enterprise <EOT> luck	#	special chances	#	comrades	#	picked men	#	<EOL> 
+carefully wrapped <EOT> empty plates	#	fresh    alert	#	distant province	#	start	#	<EOL> 
+hot sun <EOT> seal	#	hot sun	#	letter secretly	#	questions	#	<EOL> 
+merchant found <EOT> wali dad	#	rest straight	#	wondered greatly	#	princely gift	#	<EOL> 
+days    rest <EOT> caravan started	#	palace courtyard	#	visit	#	gorgeous tents	#	<EOL> 
+bent sickle <EOT> pale light	#	peri waved	#	peris led	#	stood	#	<EOL> 
+morning dawned <EOT> morning dawned	#	friend	#	wali dad	#	happened	#	<EOL> 
+great feast <EOT> royal guests	#	silver plates	#	splendid	#	great dinners	#	<EOL> 
+evening bath <EOT> ran close	#	strongest	#	tortoise	#	short legs	#	<EOL> 
+careless manner <EOT> lie buried	#	delighted       answered	#	round	#	orange tree	#	<EOL> 
+stag thought <EOT> talk	#	stag thought	#	kill	#	dead man	#	<EOL> 
+woman appeared <EOT> hut	#	woman appeared	#	answered	#	sardine       replied	#	<EOL> 
+exchange       replied <EOT> exchange       replied	#	dress hair	#	make cakes	#	flat stones	#	<EOL> 
+streams filled <EOT> large number	#	proper skin	#	rabbit	#	hunt	#	<EOL> 
+monkey grew <EOT> monkey grew	#	held fast	#	cried    suiting	#	ground    dragging	#	<EOL> 
+long time <EOT> long time	#	came	#	good milk	#	sun began	#	<EOL> 
+return home <EOT> return home	#	puma easily	#	feet	#	follow	#	<EOL> 
+lovely bracelet <EOT> fast	#	eat	#	small snake	#	lovely bracelet	#	<EOL> 
+shallow place <EOT> follow	#	monkey    laughing	#	prefer	#	shallow place	#	<EOL> 
+men thanked <EOT> deserves	#	men thanked	#	moss	#	daughter       exclaimed	#	<EOL> 
+worth mending <EOT> fish	#	cobbling	#	worth mending	#	patience began	#	<EOL> 
+large city <EOT> weeping bitterly	#	matter       asked	#	beautiful girl	#	man answered	#	<EOL> 
+easily break <EOT> easily break	#	young man	#	voice joined	#	witch	#	<EOL> 
+long nose <EOT> caught sight	#	give hospitality	#	ill-treated	#	answered	#	<EOL> 
+wept bitterly <EOT> thee	#	sword	#	lamentation    repeating	#	protracted kiss	#	<EOL> 
+dry trees <EOT> stones save	#	thy death	#	thou wilt	#	jinnee accepted	#	<EOL> 
+side    lo <EOT> black hounds	#	dapple mule	#	eyes casting	#	vital spirit	#	<EOL> 
+mourning heart <EOT> weeping eye	#	fat	#	bring	#	shahrazad perceived	#	<EOL> 
+wonderful tale <EOT> liberate thee	#	result	#	story	#	wonderful tale	#	<EOL> 
+bought merchandise <EOT> bought merchandise	#	thy brothers	#	ten years	#	thee	#	<EOL> 
+respecting charms <EOT> subject	#	direct	#	respecting charms	#	order	#	<EOL> 
+hath commanded <EOT> hath commanded	#	disease	#	carry	#	present muslims	#	<EOL> 
+learned muslims <EOT> greater number	#	evil eye	#	deceptive	#	chiefly depends	#	<EOL> 
+female slaves <EOT> jealousy    commanded	#	sheykh adoomeh	#	death	#	friends    deserves	#	<EOL> 
+muslims observe <EOT> unlawful	#	note 16	#	grand festivals	#	grand    eeds	#	<EOL> 
+pilgrims    halting <EOT> mount    arafat	#	religious duties	#	place appointed	#	aloud	#	<EOL> 
+shalt thou <EOT> thou hast	#	grief	#	hath beheld	#	learned men	#	<EOL> 
+common custom <EOT> discover	#	note 19	#	common custom	#	sense	#	<EOL> 
+early arabs <EOT> vol	#	pp	#	seqq	#	early arabs	#	<EOL> 
+el-is-aee    close <EOT> el-is-aee    close	#	el-jabartee	#	yoosuf bey	#	great feast	#	<EOL> 
+genesis ix <EOT> ii	#	p	#	424	#	genesis ix	#	<EOL> 
+lettres sur <EOT> lettres sur	#	pp	#	seqq	#	el-is-haee	#	<EOL> 
+arabic   text <EOT> _	#	i	#	p	#	arabic   text	#	<EOL> 
+thy words <EOT> story	#	thy words	#	gave orders	#	earth    --	#	<EOL> 
+soft voice <EOT> efreet endeavoured	#	sea	#	hundred years	#	betrayed thee	#	<EOL> 
+rejoiced exceedingly <EOT> rejoiced exceedingly	#	great officers	#	sage dooban	#	sage returned	#	<EOL> 
+king    continued <EOT> king yoonan	#	bestow favours	#	external means	#	evil design	#	<EOL> 
+perfect form <EOT> maid	#	cook-maid fainted	#	fish raised	#	thou     forsake	#	<EOL> 
+hundred pieces <EOT> fisherman	#	hundred pieces	#	wezeer answered	#	terrifying voice	#	<EOL> 
+waited till <EOT> thee	#	waited till	#	ubbeh    clad	#	boiled meat	#	<EOL> 
+daughters continued <EOT> daughters continued	#	porter	#	chapter	#	note 1	#	<EOL> 
+common custom <EOT> rising	#	note 15	#	science	#	great officers	#	<EOL> 
+usual kind <EOT> ample coat	#	swords ornamented	#	necklace	#	precarious nature	#	<EOL> 
+khaleefeh ordering <EOT> learned man	#	eloquent speech	#	hundred turbans	#	single couplet	#	<EOL> 
+awake till <EOT> female slaves	#	whimsical story	#	female slave	#	money equal	#	<EOL> 
+memlook -- <EOT> ode	#	female slave	#	give thee	#	king     "	#	<EOL> 
+court    agreeably <EOT> slight interruption	#	light breakfast	#	principal meal	#	children eat	#	<EOL> 
+small stand <EOT> small stand	#	middle classes	#	low seats	#	brass    supported	#	<EOL> 
+syria    plenty <EOT> maghrabees    nine-tenths	#	syria    plenty	#	syria    magnificence	#	ureysh mentioned	#	<EOL> 
+pistols stuck <EOT> seldom excepting	#	commonly worn	#	note 24	#	hunting	#	<EOL> 
+poor creature <EOT> hawks    skimming	#	poor creature	#	united efforts	#	extraordinary combination	#	<EOL> 
+immediately killed <EOT> follow	#	neighbouring fellas	#	NOTE	#	erroneously put	#	<EOL> 
+deity appears <EOT> " ghool	#	account	#	introduction	#	note 27	#	<EOL> 
+considerable length <EOT> crocodile	#	memory	#	principal points	#	favour    carry	#	<EOL> 
+fox drew <EOT> hideous jaws	#	fox drew	#	crocodile urged	#	transaction repeated	#	<EOL> 
+arab historians <EOT> NOTE	#	arab historians	#	sa   eed	#	note 31	#	<EOL> 
+beneficial effect <EOT> lead    reduced	#	esteemed kind	#	wood    ivory	#	note 35	#	<EOL> 
+purposes similar <EOT> extremely suspicious	#	note 47	#	camels    horses	#	present basha	#	<EOL> 
+intoxicating liquor <EOT> water    strained	#	prepared	#	ancient tombs	#	note 52	#	<EOL> 
+perfumes    kol <EOT> turn upside-down	#	note 53	#	note respecting	#	note 54	#	<EOL> 
+wahabys    vol <EOT> wahabys    vol	#	i	#	p	#	232	#	<EOL> 
+cap <EOT> i	#	cap	#	10	#	lib	#	<EOL> 
+dry fruits <EOT> dry fruits	#	porter ventured	#	lady smiled	#	wax candles	#	<EOL> 
+agreeable dispositions <EOT> dost thou	#	menareh standeth	#	intrusteth	#	remaineth concealed	#	<EOL> 
+thou knowest <EOT> beautiful faces	#	thou hast	#	porter rejoiced	#	girdle    arranged	#	<EOL> 
+lady ceased <EOT> laughing	#	lady ceased	#	twisted mustaches	#	impertinent remarks	#	<EOL> 
+mendicants    heated <EOT> drink	#	person knocked	#	portress	#	collect    accompanied	#	<EOL> 
+ill usage <EOT> thou devise	#	merchant invited	#	respectability    returned	#	thy permission	#	<EOL> 
+left eye <EOT> left eye	#	drew back	#	kind action	#	house arose	#	<EOL> 
+great honour <EOT> thou wilt	#	woman decked	#	woman stood	#	added    enter	#	<EOL> 
+exclaimed    -- <EOT> eye	#	death	#	exclaimed    --	#	thy life	#	<EOL> 
+jaafar    verily <EOT> hath happened	#	royal mendicant	#	admonished	#	learned professors	#	<EOL> 
+told thee <EOT> told thee	#	kill thee	#	charge respecting	#	food    laying	#	<EOL> 
+high price <EOT> aspect banished	#	art thou	#	thy abode	#	acquaint thee	#	<EOL> 
+delay    seized <EOT> delay    seized	#	tears trickled	#	vile woman	#	speak falsely	#	<EOL> 
+thou hast <EOT> struck	#	thou hast	#	ten days	#	rejoiced exceedingly	#	<EOL> 
+long time <EOT> said	#	envied	#	god increase	#	long time	#	<EOL> 
+white spot <EOT> sheykh rising	#	white spot	#	king replied	#	virtuous sheykh	#	<EOL> 
+deprive mankind <EOT> thou art	#	perish	#	thou shalt	#	hand-writing    put	#	<EOL> 
+breast    engraven <EOT> breast    engraven	#	great    --	#	perilous situation	#	unfortunate case	#	<EOL> 
+king    ajeeb <EOT> blessing	#	abundant favours	#	day arrive	#	utmost cheerfulness	#	<EOL> 
+face beaming <EOT> knife remaining	#	father fell	#	youth	#	subterranean dwelling	#	<EOL> 
+thy welfare <EOT> thy welfare	#	positively inform	#	young man	#	cut open	#	<EOL> 
+gladly consent <EOT> gladly consent	#	dried fruits	#	richest clothing	#	farewell    clinging	#	<EOL> 
+thy company <EOT> heart	#	men	#	thy company	#	wept afresh	#	<EOL> 
+forty damsels <EOT> forty damsels	#	closets excepting	#	misery    induced	#	length recovering	#	<EOL> 
+admirable construction <EOT> astonishing richness	#	throne adorned	#	diadem adorned	#	black stone	#	<EOL> 
+youth hath <EOT> thou wantest	#	thy speaking	#	violent bite	#	thou feign	#	<EOL> 
+soft part <EOT> thou seest	#	-- to-morrow	#	stick lacerated	#	jaafar el-barmekee	#	<EOL> 
+thou wouldst <EOT> sword	#	thy life	#	spoke    addressed	#	wounded     eyelid	#	<EOL> 
+easily cut <EOT> manufactures	#	great variety	#	making crates	#	transversely	#	<EOL> 
+upper corners <EOT> tied round	#	veil	#	black kind	#	upper part	#	<EOL> 
+hundred nights <EOT> hundred nights	#	sell	#	note 5	#	culture	#	<EOL> 
+globular    surmounts <EOT> half filled	#	burning coals	#	note 9	#	access authorizes	#	<EOL> 
+present work <EOT> mentioned	#	note 12	#	arab houses	#	observations made	#	<EOL> 
+meaning conveyed <EOT> note 15	#	meaning conveyed	#	NOTE	#	MS	#	<EOL> 
+sulan el-mu-eiyad <EOT> note 17	#	nufs	#	ninth century	#	hundred nights	#	<EOL> 
+host told <EOT> humour	#	host told	#	intimately acquainted	#	meant brandy	#	<EOL> 
+boy    bring <EOT> prohibition	#	evil	#	evil results	#	taking	#	<EOL> 
+slave handed <EOT> slave handed	#	cut glass	#	dried fruits	#	countries inhabited	#	<EOL> 
+white characters <EOT> rose	#	god	#	miraculous rose	#	white characters	#	<EOL> 
+female slaves <EOT> thousand deenars	#	sweet odours	#	courteous manner	#	hast thou	#	<EOL> 
+is-a el-moilee <EOT> famous musician	#	great wit	#	long life	#	mukhari appears	#	<EOL> 
+looked back <EOT> face	#	basket	#	similar things	#	house	#	<EOL> 
+young men <EOT> perfumed	#	young men	#	abused	#	servant-maid preceded	#	<EOL> 
+common form <EOT> departure	#	common form	#	NOTE	#	glaring infringement	#	<EOL> 
+similarly excited <EOT> beating	#	similarly excited	#	sequel shews	#	note 36	#	<EOL> 
+forbidden science <EOT> meant	#	forbidden science	#	note 50	#	wrong reading	#	<EOL> 
+moral duties <EOT> moral duties	#	great admirers	#	note 52	#	frequently visit	#	<EOL> 
+individual lady <EOT> prophet applied	#	note 60	#	edition	#	hundred nights	#	<EOL> 
+appellation commonly <EOT> religious exercises	#	note 62	#	note	#	note 63	#	<EOL> 
+saints <EOT> invocation	#	El-Ghos	#	precedence	#	" overseers	#	<EOL> 
+time    dying <EOT> high prices	#	miraculous powers	#	wonderful lives	#	hand emitted	#	<EOL> 
+man put <EOT> entered mekkeh	#	story     "	#	e	#	high authority	#	<EOL> 
+reputed saint <EOT> To-day	#	matters respecting	#	called	#	blue shirt	#	<EOL> 
+forgetting god <EOT> remove      affliction	#	dust	#	images    hoping	#	account	#	<EOL> 
+seyyid    alee <EOT> seyyid    alee	#	great faith	#	persons    men	#	lean figure	#	<EOL> 
+incoherent words <EOT> supernatural knowledge	#	received ceased	#	quarter	#	screamed    rubbed	#	<EOL> 
+el azweenee <EOT> loadstone	#	vessels employed	#	latin author	#	note 73	#	<EOL> 
+common practices <EOT> note 79	#	lower orders	#	note 80	#	_  rukh	#	<EOL> 
+lady designed <EOT> note 85	#	unchangeable	#	68th	#	note 86	#	<EOL> 
+exceeds belief <EOT> exceeds belief	#	year	#	D	#	ambassadors	#	<EOL> 
+garden-palace    displayed <EOT> ambassadors approached	#	utmost magnificence	#	tigris    hard	#	splendid ornaments	#	<EOL> 
+size    perched <EOT> size    perched	#	passages leading	#	ebony inlaid	#	hundred cubits	#	<EOL> 
+ur-an    ch <EOT> 96	#	ur-an    ch	#	ii	#	v	#	<EOL> 
+possession ) <EOT> El-azweenee	#	possession )	#	" jummar	#	vulg	#	<EOL> 
+"     el-azweenee <EOT> "     el-azweenee	#	" moz	#	_	#	Rumman	#	<EOL> 
+ibid <EOT> ibid	#	Ibid	#	Ibid	#	_	#	<EOL> 
+born <EOT> died	#	vol	#	ii	#	pp	#	<EOL> 
+de sacy <EOT> ED	#	ch	#	vii	#	el-Mutaahhil	#	<EOL> 
+)     el-jabartee <EOT> history	#	ii	#	obituary	#	possession )	#	<EOL> 
+el-is-aee    reign <EOT> vol	#	iii	#	events	#	el-is-aee    reign	#	<EOL> 
+persia    vol <EOT> mentioned	#	persia    vol	#	ii	#	p	#	<EOL> 
+dogs follow <EOT> dogs follow	#	plea	#	fittest place	#	jaafar    observe	#	<EOL> 
+fourth day <EOT> things hidden	#	jaafar	#	gave orders	#	ye found	#	<EOL> 
+young man <EOT> young man	#	jaafar	#	replied jaafar	#	killing	#	<EOL> 
+days    ceasing <EOT> present day	#	thine ancestors	#	wicked slave	#	thou shalt	#	<EOL> 
+distressing event <EOT> distressing event	#	wezeer noor-ed-deen	#	thou exempt	#	give thee	#	<EOL> 
+drank sherbet <EOT> conduct noor-en-deen	#	introduce thyself	#	wife	#	happen	#	<EOL> 
+grieved excessively <EOT> spoken harshly	#	information respecting	#	shems-ed-deen despaired	#	judgment    --	#	<EOL> 
+wezeer answered <EOT> fifteen years	#	fell sick	#	thou understand	#	native place	#	<EOL> 
+strict admonition <EOT> thine uncle	#	outer cloth	#	charge thee	#	thy time	#	<EOL> 
+ugly wretch <EOT> ugly wretch	#	efreet	#	thou speakest	#	efreet answered	#	<EOL> 
+wezeer entered <EOT> wezeer entered	#	heart burned	#	travel eastwards	#	wezeer rejoiced	#	<EOL> 
+rode immediately <EOT> damascus    shewed	#	viceroy ordered	#	wezeer returned	#	thy recompense	#	<EOL> 
+young men <EOT> manner proceeded	#	pomegranate grains	#	feet	#	restored	#	<EOL> 
+crucify thee <EOT> parade thee	#	thou madest	#	meal    --	#	reflection	#	<EOL> 
+yonder apartment <EOT> yonder apartment	#	scar occasioned	#	dream	#	remained	#	<EOL> 
+future ages <EOT> future ages	#	utmost happiness	#	wezeer shems-ed-deen	#	regular maintenance	#	<EOL> 
+over-zealous regard <EOT> note 3	#	poor man	#	note 4	#	chapter iii	#	<EOL> 
+proportionable part <EOT> good works	#	hell laden	#	NOTE	#	sweet-smelling plants	#	<EOL> 
+muslims    christians <EOT> eighth century	#	long series	#	centuries posterior	#	tenth century	#	<EOL> 
+bed    receives <EOT> silver coins	#	father entertains	#	religious ceremonies	#	naming	#	<EOL> 
+thou wouldst <EOT> tempers	#	milk	#	ingenuous disposition	#	anxious solicitude	#	<EOL> 
+reply       yea <EOT> paradise	#	enter paradise	#	answer       yea	#	reply       yea	#	<EOL> 
+children    protect <EOT> e	#	children    protect	#	child begins	#	honourable throne	#	<EOL> 
+separate bed <EOT> separate beds	#	generally performed	#	female relations	#	sumptuous feasts	#	<EOL> 
+sacred volume <EOT> ur-an	#	generally decrease	#	poorer classes	#	private tutor	#	<EOL> 
+twenty years <EOT> earlier period	#	present world	#	improper act	#	twelve years	#	<EOL> 
+full moon <EOT> full moon	#	NOTE	#	arab	#	note 28	#	<EOL> 
+verses interspersed <EOT> hundred nights	#	note 32	#	el-mutanebbee	#	note 33	#	<EOL> 
+note 34 <EOT> note 34	#	house	#	note 35	#	place	#	<EOL> 
+unlimited number <EOT> seventeen concubines	#	mohammadan era	#	good morals	#	time	#	<EOL> 
+triple sentence <EOT> maintain	#	triple sentence	#	periods    tempted	#	case	#	<EOL> 
+men make <EOT> requisites	#	content	#	classes inferior	#	concubine slave	#	<EOL> 
+age receives <EOT> additional sum	#	husband	#	present day	#	unpropitious    moarram	#	<EOL> 
+opening chapter <EOT> bridegroom pays	#	hand    raising	#	contracting parties	#	similar form	#	<EOL> 
+present work <EOT> present work	#	commonly approved	#	lanterns    suspended	#	square pieces	#	<EOL> 
+sour apples <EOT> sour apples	#	pomp	#	singular display	#	great weight	#	<EOL> 
+frequently heard <EOT> efreet	#	frequently heard	#	note 47	#	evil jinnees	#	<EOL> 
+generally uttered <EOT> deceased muslim	#	note 59	#	introduction	#	note 60	#	<EOL> 
+xii <EOT> 9	#	Compare	#	xii	#	46	#	<EOL> 
+words     " <EOT> great	#	"	#	ii	#	v	#	<EOL> 
+ii <EOT> ii	#	p	#	86	#	ibid	#	<EOL> 
+sect <EOT> sect	#	8	#	ibid	#	vol	#	<EOL> 
+market    night <EOT> market    night	#	large piece	#	sharp bone	#	idling    exclaimed	#	<EOL> 
+sick person <EOT> wife	#	sick person	#	lifeless humpback	#	ass    --	#	<EOL> 
+instantly died <EOT> instantly died	#	killed	#	answered	#	liberate	#	<EOL> 
+rope round <EOT> rope round	#	gave orders	#	bring	#	executioner	#	<EOL> 
+young man <EOT> fair forehead	#	thee	#	money	#	dress richer	#	<EOL> 
+thou art <EOT> thou shouldst	#	poverty overpowered	#	kingly diadem	#	trooper	#	<EOL> 
+hath happened <EOT> hath happened	#	leisure	#	thy story	#	thy hand	#	<EOL> 
+loud cry <EOT> admonished	#	loud cry	#	thee	#	proper time	#	<EOL> 
+produce    travelled <EOT> answered	#	native country	#	lives    --	#	repast    comprising	#	<EOL> 
+nightfall arrived <EOT> replied	#	eunuchs approaching	#	looked attentively	#	locked	#	<EOL> 
+eunuchs immediately <EOT> violent shaking	#	mistress zubeydeh	#	-- open	#	destruction	#	<EOL> 
+lady zubeydeh <EOT> gold	#	exquisite dishes	#	bath    preparatively	#	instantly commenced	#	<EOL> 
+younger days <EOT> younger days	#	alabaster overlaid	#	eye	#	handsome dress	#	<EOL> 
+outer garments <EOT> exultation	#	outer garments	#	secret jealousy	#	-- yea	#	<EOL> 
+acquaintance    consisting <EOT> story	#	story told	#	hath happened	#	acquaintance    consisting	#	<EOL> 
+short time <EOT> continued	#	life beheld	#	watering    beneath	#	continued sitting	#	<EOL> 
+house    -- <EOT> actual observation	#	thy soul	#	delight thyself	#	plans	#	<EOL> 
+thine absence <EOT> thine absence	#	by-streets	#	immediately arose	#	by-street    stopped	#	<EOL> 
+utterly abashed <EOT> produce	#	utterly abashed	#	barber advanced	#	reason forsook	#	<EOL> 
+scatter gold <EOT> thou wouldst	#	thy sake	#	hasty disposition	#	market    implored	#	<EOL> 
+love    laughed <EOT> continued    sewing	#	manner    laughed	#	girl    coming	#	night    --	#	<EOL> 
+young woman <EOT> young woman	#	great quantity	#	thy sorrow	#	tongue wherewith	#	<EOL> 
+people crying <EOT> people crying	#	present day	#	khaleefeh laughed	#	pleasant tales	#	<EOL> 
+beardless youth <EOT> woman	#	violent love	#	patient	#	single cushion	#	<EOL> 
+back secretly <EOT> back secretly	#	thy disclosure	#	fourth brother	#	reared lambs	#	<EOL> 
+thy hands <EOT> thou wilt	#	hand    approached	#	mountain    left	#	sufficient maintenance	#	<EOL> 
+thou hast <EOT> thou hast	#	thine abode	#	hath accused	#	story told	#	<EOL> 
+purely arab <EOT> note 1	#	calcutta edition	#	_  ajar	#	suppose kashghar	#	<EOL> 
+generally employed <EOT> arab towns	#	long staff	#	unlawful undertaking	#	note 8	#	<EOL> 
+_  walee <EOT> note 9	#	_  walee	#	older appellation	#	officer	#	<EOL> 
+left hand <EOT> left hand	#	note 15	#	lower orders	#	note 16	#	<EOL> 
+superior kind <EOT> note 18	#	shops facing	#	principal street	#	year	#	<EOL> 
+egyptian fowls <EOT> )	#	construction	#	persons	#	NOTE	#	<EOL> 
+called mir <EOT> tenth century	#	note 24	#	elegant house	#	note 25	#	<EOL> 
+round-fronted towers <EOT> noble appearance	#	note 27	#	cairo	#	older houses	#	<EOL> 
+capital punishment <EOT> note 33	#	capital punishment	#	note 34	#	god	#	<EOL> 
+present story <EOT> present story	#	note 40	#	dead	#	minor sins	#	<EOL> 
+acceptable present <EOT> water	#	acceptable present	#	note 45	#	mentioned marks	#	<EOL> 
+deprive st <EOT> )	#	deprive st	#	historians ascribing	#	note 48	#	<EOL> 
+father       abbas <EOT> abbasee khaleefehs	#	note 57	#	astrolabe	#	astronomical observations	#	<EOL> 
+mohammadan year <EOT> mohammadan year	#	note 59	#	glaring anachronism	#	breslau edition	#	<EOL> 
+perfume composed <EOT> simply ambergris	#	note 68	#	congregational friday-prayers	#	alluded	#	<EOL> 
+congregational friday-prayers <EOT> note 69	#	congregational friday-prayers	#	noon	#	18th chapter	#	<EOL> 
+ministers stationed <EOT> ministers stationed	#	enjoins silence	#	top step	#	town acquired	#	<EOL> 
+haroon er-rasheed <EOT> haroon er-rasheed	#	D	#	861	#	story told	#	<EOL> 
+passage alludes <EOT> marriage	#	passage alludes	#	letters composing	#	number	#	<EOL> 
+roman domination <EOT> note 79	#	severely beaten	#	money	#	man fears	#	<EOL> 
+great man <EOT> great man	#	account	#	note 85	#	midst	#	<EOL> 
+note 91 <EOT> note 91	#	sultry	#	note 92	#	derived	#	<EOL> 
+open house <EOT> kings	#	open house	#	note 98	#	meat    wheat-flour	#	<EOL> 
+thin paste <EOT> copper tray	#	sheykh states	#	proper singular	#	musk	#	<EOL> 
+year   preceding <EOT> mss	#	year   preceding	#	-- ed	#	original	#	<EOL> 
+forefathers applied <EOT> enees-el-jelees	#	term     khaeeyeh	#	suleyman ez-zeynee	#	inauspicious aspect	#	<EOL> 
+thou shouldst <EOT> handsomest description	#	wezeer considered	#	private apartment	#	brilliant countenance	#	<EOL> 
+news    -- <EOT> art thou	#	love	#	state    lo	#	swear	#	<EOL> 
+thy wezeer <EOT> thou art	#	thou liest	#	thy permission	#	sudden attack	#	<EOL> 
+long continue <EOT> relieved	#	case	#	morning	#	long continue	#	<EOL> 
+thou stoodest <EOT> thou stoodest	#	place	#	hath dropped	#	people	#	<EOL> 
+merchants heard <EOT> tyrannical conduct	#	thou wilt	#	alee noor-ed-deen	#	noor-ed-deen	#	<EOL> 
+immediately    answered <EOT> thou wilt	#	asked noor-ed-deen	#	thy hand	#	thou tookest	#	<EOL> 
+taking hold <EOT> slave-girl    made	#	brought thee	#	disobey	#	thy price	#	<EOL> 
+tear gushed <EOT> tear gushed	#	sheykh ibraheem	#	sheykh answered	#	ease	#	<EOL> 
+melodious sounds <EOT> colours	#	person exhilarated	#	wind whistled	#	past events	#	<EOL> 
+sheykh ibraheem <EOT> thou wilt	#	acquaint thee	#	sheykh ibraheem	#	prince	#	<EOL> 
+sheykh ibraheem <EOT> stringed instruments	#	musical instrument	#	feet	#	jaafar replied	#	<EOL> 
+jaafar    thou <EOT> jaafar    thou	#	tigris    reflecting	#	heard beneath	#	recitation    lo	#	<EOL> 
+man hath <EOT> sulan gave	#	artful devil	#	sulan	#	young man	#	<EOL> 
+jailer replied <EOT> excessive beating	#	clean clothes	#	poet    --	#	willeth	#	<EOL> 
+aider    " <EOT> NOTE	#	assistant	#	NOTE	#	religion	#	<EOL> 
+modern arabs <EOT> modern arabs	#	NOTE	#	common form	#	note 7	#	<EOL> 
+family    tribe <EOT> punishment	#	family    tribe	#	unknown hand	#	permission	#	<EOL> 
+washing    shrouding <EOT> note 11	#	washing    shrouding	#	ceremonies attendant	#	dying person	#	<EOL> 
+kashmeer shawl <EOT> kashmeer shawl	#	briefly describing	#	faith    mentioned	#	embroidered kerchief	#	<EOL> 
+cairo edition <EOT> cairo edition	#	note 38	#	" he-cat	#	NOTE	#	<EOL> 
+final retribution <EOT> note 40	#	present life	#	note 41	#	wide mouth	#	<EOL> 
+vol <EOT> vol	#	ii	#	pp	#	ed	#	<EOL> 
+Ch <EOT> Ch	#	iv	#	v	#	34	#	<EOL> 
+eighty buffaloes <EOT> narrow streets	#	-- ed	#	detailed information	#	ii	#	<EOL> 
+happy king <EOT> excessive beauty	#	large property	#	god  (	#	haroon er-rasheed	#	<EOL> 
+sat listening <EOT> arrived	#	procession arrived	#	ur-an	#	merchants sat	#	<EOL> 
+wife overturned <EOT> wife overturned	#	handsome manner	#	calamity    --	#	people exclaimed	#	<EOL> 
+back failed <EOT> thy master	#	companions    joined	#	great dust	#	excessive grief	#	<EOL> 
+turban falling <EOT> house    save	#	witnesses testifying	#	legal proposition	#	large sum	#	<EOL> 
+found worked <EOT> found worked	#	thy history	#	favourite slave	#	thou seest	#	<EOL> 
+laid hold <EOT> ghanim	#	laid hold	#	place	#	distracted slave	#	<EOL> 
+khaleefeh    incensed <EOT> ghanim	#	thou complainest	#	grant thy	#	beloved    ghanim	#	<EOL> 
+thy tale <EOT> thy history	#	ghanim sat	#	khaleefeh rejoiced	#	abundant pensions	#	<EOL> 
+thy handmaid <EOT> thy memlook	#	khaleefeh thanked	#	khaleefeh ordered	#	chapter seventh	#	<EOL> 
+note 4 <EOT> note 4	#	expressed	#	hundred-weights	#	note 5	#	<EOL> 
+great recompense <EOT> " nawafij	#	NOTE	#	takes part	#	note 7	#	<EOL> 
+love induced <EOT> putrid	#	love induced	#	bed    speechless	#	charms    demanded	#	<EOL> 
+opinions relating <EOT> i	#	pp	#	highest respect	#	[	#	<EOL> 
+final vowel <EOT> Mekaid	#	possession )	#	final vowel	#	Kitab	#	<EOL> 
+astonishing loveliness <EOT> king	#	killeth    ravishing	#	lovely face	#	prepare thyself	#	<EOL> 
+bore witness <EOT> precious rarities	#	months    omitting	#	bride required	#	ten mules	#	<EOL> 
+single hour <EOT> single hour	#	wild beasts	#	ten days	#	springs gushing	#	<EOL> 
+young man <EOT> affection    great	#	bade farewell	#	voice     diseases	#	verses    commencing	#	<EOL> 
+cousin    azeezeh <EOT> raised floor	#	bandage round	#	gentle voice	#	present moment	#	<EOL> 
+thine absence <EOT> eye	#	flowing --	#	thy hopes	#	lighted lamp	#	<EOL> 
+grief increased <EOT> thee	#	exclaimed    god	#	wept	#	thou to-night	#	<EOL> 
+prostrate    throwing <EOT> iron dirhem	#	house wretched	#	prostrate    throwing	#	thou wouldst	#	<EOL> 
+ma   ad <EOT> did	#	ma   ad	#	allah    inform	#	eyes filled	#	<EOL> 
+thou goest <EOT> hath shewn	#	acquitted	#	thou goest	#	died    charged	#	<EOL> 
+mutual love <EOT> sex    young	#	thy cousin	#	thou wouldst	#	demand	#	<EOL> 
+azeezeh    -- <EOT> wept violently	#	soil answered	#	streaming tears	#	obey	#	<EOL> 
+good news <EOT> contents    informing	#	thy youth	#	thee	#	absence night	#	<EOL> 
+damsel approached <EOT> hear	#	nimble step	#	gold set	#	precious gems	#	<EOL> 
+lo    men <EOT> thou camest	#	closed	#	binding oaths	#	garden	#	<EOL> 
+god avert <EOT> wickedness    --	#	throat	#	thy life	#	cruel wound	#	<EOL> 
+thou seest <EOT> thou seest	#	sorrow hath	#	sovereign	#	caravan entered	#	<EOL> 
+thy mother <EOT> thy mother	#	account	#	thee thy	#	answered	#	<EOL> 
+lady dunya <EOT> wezeer arose	#	violently enraged	#	daughter liketh	#	attendants unsuccessful	#	<EOL> 
+god avert <EOT> brought thee	#	-- shew	#	replied	#	city    --	#	<EOL> 
+added    give <EOT> beholdeth	#	amusement	#	woman	#	added    give	#	<EOL> 
+lady dunya <EOT> letter	#	merchant openeth	#	affection	#	flying bird	#	<EOL> 
+thy coming <EOT> letter	#	thy coming	#	present state	#	lover drowned	#	<EOL> 
+hath happened <EOT> thy	#	thy means	#	man hath	#	boldness	#	<EOL> 
+thy returning <EOT> thy returning	#	lady dunya	#	give orders	#	letter    rejoined	#	<EOL> 
+lady dunya <EOT> lady dunya	#	attendants    beat	#	beat	#	abode	#	<EOL> 
+superintendent sitting <EOT> superintendent sitting	#	beg thee	#	replied    enter	#	roasted lamb	#	<EOL> 
+good work <EOT> good work	#	required    introduced	#	female pigeon	#	male pigeon	#	<EOL> 
+thou wilt <EOT> thou wilt	#	thy heart	#	surpassing beauty	#	hath killed	#	<EOL> 
+lady dunya <EOT> thy return	#	lady dunya	#	thy means	#	thy youth	#	<EOL> 
+kafoor    veil <EOT> kafoor    veil	#	conceal	#	returned	#	eunuch answered	#	<EOL> 
+lady dunya <EOT> lady dunya	#	father    slay	#	back	#	thy dominions	#	<EOL> 
+great fear <EOT> king	#	taj-el-mulook opened	#	gray hairs	#	lady dunya	#	<EOL> 
+generous person <EOT> daughter	#	years separated	#	excellent	#	brother    accept	#	<EOL> 
+persian origin <EOT> present state	#	arab	#	azeezeh resided	#	mentioned	#	<EOL> 
+green city <EOT> green city	#	note	#	note 3	#	god	#	<EOL> 
+upper end <EOT> upper end	#	ate	#	saloon	#	dry sweetmeat	#	<EOL> 
+raw sheep <EOT> presence	#	prunes    stones	#	dead lion	#	note 8	#	<EOL> 
+chapter iv <EOT> shibreeyeh  (	#	NOTE	#	chapter iv	#	note 10	#	<EOL> 
+lozenge-shaped pieces <EOT> inches wide	#	note 23	#	chapter	#	note 24	#	<EOL> 
+flat form <EOT> cut flat	#	game	#	note 27	#	simple interpretation	#	<EOL> 
+opening chapter <EOT> highest degree	#	fat   ah	#	egypt	#	performers	#	<EOL> 
+excited    repeating <EOT> excited    repeating	#	generally remarked	#	calm gravity	#	performance	#	<EOL> 
+chapter iii <EOT> chapter iii	#	note 43	#	spacious chamber	#	tale	#	<EOL> 
+modern arabic <EOT> note 44	#	artifice    machination	#	female nickname	#	note 45	#	<EOL> 
+greater bear <EOT> note 61	#	correspondence	#	note 62	#	greater bear	#	<EOL> 
+seyyid el-bedawee <EOT> note 63	#	er-rifa   ee	#	principal orders	#	subsequent tale	#	<EOL> 
+leather divided <EOT> note 70	#	" amsheh	#	upper end	#	royal dagger	#	<EOL> 
+aloe-plant <EOT> x	#	" abbarah	#	patient	#	appellations	#	<EOL> 
+anecdote <EOT> Ch	#	v	#	v	#	27	#	<EOL> 
+virtually-independent dynasty <EOT> viii	#	faimee khaleefehs	#	actual governor	#	-- ed	#	<EOL> 
+mother told <EOT> mother told	#	mother shook	#	shifty lad	#	big robbery	#	<EOL> 
+gallows bird <EOT> gallows bird	#	sort	#	bushes	#	shoes smeared	#	<EOL> 
+suddenly heard <EOT> assure	#	loud baa	#	lost	#	wood till	#	<EOL> 
+carefully examined <EOT> carefully examined	#	shifty lad	#	catch	#	do	#	<EOL> 
+cried    turning <EOT> answered	#	cried    turning	#	remained silent	#	govern half	#	<EOL> 
+assembly fixed <EOT> examine	#	ball	#	assembly fixed	#	death	#	<EOL> 
+story    bidding <EOT> story    bidding	#	send messengers	#	portuguese	#	turned restlessly	#	<EOL> 
+hear       answered <EOT> hear       answered	#	king	#	surely	#	face turned	#	<EOL> 
+evil spirit <EOT> evil spirit	#	kill	#	jogi advised	#	cunningly jointed	#	<EOL> 
+lay    living <EOT> lovely maiden	#	set afloat	#	strange circumstances	#	completely won	#	<EOL> 
+fifty years <EOT> fifty years	#	salt	#	head	#	water	#	<EOL> 
+fruit left <EOT> fruit left	#	fast friends	#	strange things	#	listened grew	#	<EOL> 
+poor man <EOT> poor man	#	answer	#	silent       inquired	#	heart	#	<EOL> 
+weeks passed <EOT> back showed	#	head peeped	#	" ah	#	overtire	#	<EOL> 
+room full <EOT> fairy man	#	fond	#	women    dressed	#	tidings	#	<EOL> 
+sir <EOT> baby	#	frightened	#	side	#	plain	#	<EOL> 
+woman jumped <EOT> king	#	Let	#	woman jumped	#	king entered	#	<EOL> 
+king smiled <EOT> lord	#	eyes twinkled	#	start	#	pocket	#	<EOL> 
+silent       asked <EOT> silent       asked	#	day long	#	pause       don	#	husband grew	#	<EOL> 
+wife contented <EOT> good-natured	#	altogether	#	peep	#	are	#	<EOL> 
+burnt cork <EOT> air-pistol	#	red cock	#	bone handle	#	good thing	#	<EOL> 
+good shaking <EOT> are	#	jonas	#	manage	#	killing	#	<EOL> 
+dust flies <EOT> amusing	#	dust flies	#	lisa	#	jonas	#	<EOL> 
+jonas       walter <EOT> jonas       walter	#	frightened	#	touched walter	#	hunt wolves	#	<EOL> 
+drumsticks stiffened <EOT> drumsticks stiffened	#	head looked	#	<EOL> 
+to-day       asked <EOT> to-day       asked	#	game	#	winner	#	choose       inquired	#	<EOL> 
+father loses <EOT> stick saddle	#	king	#	door	#	king quickly	#	<EOL> 
+black horses <EOT> horse slackened	#	see	#	answered	#	horse	#	<EOL> 
+oak windows <EOT> reply	#	knob	#	death	#	oak windows	#	<EOL> 
+reached home <EOT> servants tied	#	manner	#	great giant	#	darkness fell	#	<EOL> 
+downcast       replied <EOT> trouble	#	downcast       replied	#	thee	#	sun rose	#	<EOL> 
+king walked <EOT> great earthquake	#	wife	#	find foothold	#	streams    till	#	<EOL> 
+huge hand <EOT> huge hand	#	odd	#	moved forward	#	mile	#	<EOL> 
+bonnach stone <EOT> queen lay	#	bonnach stone	#	king crept	#	Bonnach	#	<EOL> 
+queen ran <EOT> threshold	#	ground	#	queen ran	#	cleaning	#	<EOL> 
+water    holding <EOT> water    holding	#	huge shadow	#	queen snatched	#	soul	#	<EOL> 
+bleat    rang <EOT> donkey	#	carry	#	words reached	#	grew tired	#	<EOL> 
+inches high <EOT> stand back	#	men put	#	silver chain	#	brides farewell	#	<EOL> 
+bad people <EOT> bad people	#	good-bye	#	ladies stretched	#	stir hand	#	<EOL> 
+faint heart <EOT> faint heart	#	copper	#	ll give	#	smith	#	<EOL> 
+prince standing <EOT> prince standing	#	crowns	#	king	#	princess	#	<EOL> 
+inches vanished <EOT> carriage door	#	princes	#	day	#	elder couples	#	<EOL> 
+flew home <EOT> flew home	#	kill	#	save	#	speak	#	<EOL> 
+poor boy <EOT> poor boy	#	bad thing	#	young rascal	#	place	#	<EOL> 
+great joy <EOT> great joy	#	gold cup	#	husband passing	#	sleep sound	#	<EOL> 
+silk stuffs <EOT> service	#	gold thread	#	young mistress	#	lost thing	#	<EOL> 
+servants    hall <EOT> head footman	#	nice rooms	#	toast ready	#	horns spring	#	<EOL> 
+long years <EOT> norway    turn	#	horns put	#	diamonds dropping	#	princess spent	#	<EOL> 
+drink to-night <EOT> drink to-night	#	walk	#	winding threads	#	sweet babes	#	<EOL> 
+full memory <EOT> broken	#	arms round	#	heard splitting	#	castle	#	<EOL> 
+enormous cobra <EOT> enormous cobra	#	knaps	#	dream-boy	#	lasse	#	<EOL> 
+fair hair <EOT> dream-boy	#	lasse	#	eat	#	travel	#	<EOL> 
+familiar lady <EOT> tail	#	bleaching green	#	long pipe	#	blinked	#	<EOL> 
+kitchen door <EOT> dream-boy	#	hot frying-pan	#	sail back	#	jump ashore	#	<EOL> 
+long time <EOT> long time	#	fallen asleep	#	low murmur	#	good children	#	<EOL> 
+birch tree <EOT> pea-shell fleet	#	drifted back	#	back	#	lasse	#	<EOL> 
+poor tiger <EOT> poor tiger	#	slept soundly	#	dangerous beast	#	half disbelieving	#	<EOL> 
+enchanted deer <EOT> stout cart-horse	#	living	#	man standing	#	horse       asked	#	<EOL> 
+mother heard <EOT> mother heard	#	son answered	#	house carrying	#	beaten       thought	#	<EOL> 
+deep slumber <EOT> wood	#	threshold	#	dark lad	#	sweetest music	#	<EOL> 
+young man <EOT> young man	#	red skin	#	bag       bade	#	open door	#	<EOL> 
+places iveragh <EOT> rounds	#	neck broken	#	small waves	#	young women	#	<EOL> 
+burned wood <EOT> burned wood	#	queer thing	#	poor mother	#	hundred years	#	<EOL> 
+man led <EOT> heed	#	man led	#	deceived	#	young man	#	<EOL> 
+son felt <EOT> whip	#	shrank	#	head	#	son felt	#	<EOL> 
+tears rose <EOT> weaker day	#	silence	#	tears rose	#	unfinished houses	#	<EOL> 
+stepping cautiously <EOT> poor man	#	anger knew	#	rich man	#	dreadful adventures	#	<EOL> 
+big branches <EOT> big branches	#	seventh morning	#	huts made	#	cry bitterly	#	<EOL> 
+sobbed louder <EOT> sobbed louder	#	persisted	#	guess	#	prince	#	<EOL> 
+earthen pot <EOT> mind	#	cooking round	#	grew tired	#	snake wriggling	#	<EOL> 
+beautiful tombs <EOT> man	#	graves	#	beautiful tombs	#	did	#	<EOL> 
+brother       asked <EOT> matter worse	#	town       answered	#	swaheli tales	#	steere	#	<EOL> 
+carried water <EOT> bade	#	bring home	#	sound asleep	#	usual nap	#	<EOL> 
+boughs covered <EOT> tree	#	shining leaves	#	attendants	#	king stopped	#	<EOL> 
+called salmon <EOT> called salmon	#	big sea	#	stone hearth	#	called ahtola	#	<EOL> 
+alder bushes <EOT> asked	#	feed	#	sixteen tufts	#	laughed matte	#	<EOL> 
+dear cow <EOT> wife	#	fish	#	husband	#	salt herring	#	<EOL> 
+head    mother <EOT> head    mother	#	maie sighed	#	idea	#	fresh butter	#	<EOL> 
+boating excursion <EOT> boating excursion	#	maie	#	Ah	#	fresh milk	#	<EOL> 
+asked matte <EOT> asked matte	#	bring luck	#	thought	#	sunday	#	<EOL> 
+heavy boat <EOT> fine tobacco	#	bed	#	profaned sunday	#	fisherman sat	#	<EOL> 
+great abundance <EOT> cow found	#	good condition	#	clever beast	#	filled	#	<EOL> 
+churned quantities <EOT> churned quantities	#	cow continued	#	stood awaiting	#	small	#	<EOL> 
+large cottage <EOT> salmon    herring	#	amiss	#	hired	#	milk	#	<EOL> 
+wife set <EOT> household	#	matte	#	wife set	#	finding food	#	<EOL> 
+maie knew <EOT> wife	#	steamer	#	making fun	#	big dam	#	<EOL> 
+boat began <EOT> boat began	#	boiling water	#	sea opened	#	maie sank	#	<EOL> 
+prince lay <EOT> prince lay	#	hut    mending	#	house       asked	#	flower garden	#	<EOL> 
+stormy weather <EOT> stormy weather	#	rejoined	#	water	#	fiddle	#	<EOL> 
+big sister <EOT> big sister	#	laughed otto	#	worm carefully	#	greedy sparrow	#	<EOL> 
+wandered <EOT> wandered	#	<EOL> 
+home <EOT> aina	#	lisa	#	full	#	lina	#	<EOL> 
+wonderful things <EOT> wonderful things	#	bitter frost	#	eager question	#	story lasted	#	<EOL> 
+long line <EOT> plouhinec	#	bernez working	#	huge column	#	holy sign	#	<EOL> 
+slung round <EOT> slung round	#	start	#	jewels	#	returned bernez	#	<EOL> 
+magic herbs <EOT> advancing rapidly	#	power greater	#	young man	#	tall stone	#	<EOL> 
+wife standing <EOT> large bowl	#	eat       asked	#	dipped	#	hearty appetite	#	<EOL> 
+asked peronnik <EOT> blavet	#	asked peronnik	#	wood full	#	cold    hunger	#	<EOL> 
+fairy armed <EOT> fairy armed	#	apple	#	inquired peronnik	#	laughs    protected	#	<EOL> 
+noble rogear <EOT> noble rogear	#	long whiskers	#	large quantity	#	master	#	<EOL> 
+crouched close <EOT> black man	#	grow sleepy	#	eyes closed	#	peronnik sang	#	<EOL> 
+answered rogear <EOT> sent	#	woman	#	servant	#	answered rogear	#	<EOL> 
+awful rumbling <EOT> standing close	#	peronnik	#	white horse	#	french	#	<EOL> 
+dead bretons <EOT> army large	#	sorcerer managed	#	Breton	#	great battle	#	<EOL> 
+road    till <EOT> remember	#	green valley	#	bundle    fearing	#	beautiful maiden	#	<EOL> 
+thy father <EOT> thy father	#	glasses       answered	#	butler       cried	#	turning round	#	<EOL> 
+midnight struck <EOT> crept back	#	thou wilt	#	green city	#	young prince	#	<EOL> 
+thy weariness <EOT> thy weariness	#	byre	#	beautifully thatched	#	met	#	<EOL> 
+entered dressed <EOT> green silk	#	son looked	#	eyes fell	#	son laid	#	<EOL> 
+house door <EOT> giant turned	#	called	#	giant	#	house door	#	<EOL> 
+hardest things <EOT> hardest things	#	short time	#	murmured aloud	#	thou wilt	#	<EOL> 
+giant <EOT> drowned	#	house	#	bride	#	remember	#	<EOL> 
+greyhound leapt <EOT> greyhound leapt	#	daughter	#	son	#	oak tree	#	<EOL> 
+drunk    kynon <EOT> meat	#	drunk    kynon	#	mighty	#	bade farewell	#	<EOL> 
+youths clothed <EOT> arrows made	#	hilts	#	young men	#	twenty damsels	#	<EOL> 
+grassy space <EOT> grassy space	#	black man	#	club    kai	#	close	#	<EOL> 
+thou abidest <EOT> unhorse thee	#	thy life	#	told	#	marble slab	#	<EOL> 
+neck    held <EOT> neck    held	#	song sweeter	#	escaped alive	#	black pennon	#	<EOL> 
+splendid castle <EOT> owen cut	#	splendid castle	#	caught owen	#	tall houses	#	<EOL> 
+sorely grieved <EOT> wheresoever	#	sorely grieved	#	rich colours	#	slept gladly	#	<EOL> 
+owen beheld <EOT> dead	#	beautiful lady	#	owen looked	#	damsel	#	<EOL> 
+city withdrew <EOT> countess summoned	#	choose	#	master	#	city withdrew	#	<EOL> 
+made ready <EOT> made ready	#	back	#	fell asleep	#	walk    attended	#	<EOL> 
+owen overthrew <EOT> castle gate	#	earl kneel	#	loud yelling	#	lion standing	#	<EOL> 
+luned       replied <EOT> owen unsheathed	#	fat buck	#	owen made	#	luned       replied	#	<EOL> 
+fighting thee <EOT> hard blows	#	fighting thee	#	fight	#	lion knew	#	<EOL> 
+good knight <EOT> good knight	#	fight began	#	pressed hard	#	yonder beast	#	<EOL> 
+called cornwall <EOT> mabinogion	#	called cornwall	#	taking care	#	absolutely needed	#	<EOL> 
+barbaik caught <EOT> hat	#	bear	#	girl weep	#	cried barbaik	#	<EOL> 
+riches    beauty <EOT> working hard	#	peaceful life	#	thought	#	good husband	#	<EOL> 
+beggars abounded <EOT> crowds    mistaking	#	earning	#	town built	#	mules talking	#	<EOL> 
+yellow broom <EOT> yellow broom	#	head	#	feet began	#	young man	#	<EOL> 
+singer       cried <EOT> fish appeared	#	golden pot	#	inquired	#	wood sparkling	#	<EOL> 
+grew pale <EOT> bellah	#	rough dress	#	wander free	#	flashed past	#	<EOL> 
+young man <EOT> shut	#	young man	#	red hairs	#	hairs changed	#	<EOL> 
+wide breeches <EOT> wide breeches	#	thick stem	#	white satin	#	great bird	#	<EOL> 
+great hall <EOT> beheld	#	table lay	#	sides shining	#	said	#	<EOL> 
+soul       cried <EOT> luck	#	net	#	toad    horrible	#	struggled hard	#	<EOL> 
+car drawn <EOT> stone eggs	#	exclaimed	#	bade bellah	#	rescued back	#	<EOL> 
+pryderi killed <EOT> mountain heather	#	grew weary	#	live	#	left wales	#	<EOL> 
+manawyddan rose <EOT> manawyddan rose	#	hair brisling	#	pryderi	#	dogs rushed	#	<EOL> 
+make shoes <EOT> set	#	wilt	#	shoes    till	#	narberth    taking	#	<EOL> 
+woe betide <EOT> meddle	#	woe betide	#	prevent discredit	#	destroy	#	<EOL> 
+forked sticks <EOT> thief	#	give thee	#	sell	#	scholar	#	<EOL> 
+give thee <EOT> pounds	#	loose	#	loose	#	twenty pounds	#	<EOL> 
+asked manawyddan <EOT> asked manawyddan	#	avenge gwawl	#	bag	#	thou wast	#	<EOL> 
+thou didst <EOT> thou didst	#	young woman	#	long ago	#	sheep grazing	#	<EOL> 
+sun rose <EOT> sun rose	#	woman bade	#	strive	#	hoodie entered	#	<EOL> 
+poisoned thorns <EOT> horse-shoes	#	poison	#	poisoned thorns	#	great lord	#	<EOL> 
+loved races <EOT> loved races	#	wedding feast	#	great hall	#	set	#	<EOL> 
+great hall <EOT> feast       asked	#	great hall	#	spells fell	#	horse-shoes back	#	<EOL> 
+coarse comb <EOT> coarse comb	#	Highland	#	jalm riou	#	country side	#	<EOL> 
+lake       replied <EOT> asked	#	lake       replied	#	inquired jegu	#	green frog	#	<EOL> 
+replied roughly <EOT> thanked	#	answer made	#	fat	#	leaves	#	<EOL> 
+thou wilt <EOT> thou wilt	#	earth extends	#	wife	#	granted thee	#	<EOL> 
+called olwen <EOT> called olwen	#	evil place	#	give	#	thou escape	#	<EOL> 
+menw caught <EOT> cast	#	menw caught	#	iron pains	#	men returned	#	<EOL> 
+men heed <EOT> men heed	#	Gwrhyr	#	open       replied	#	wherefore	#	<EOL> 
+wooden sides <EOT> wooden sides	#	scabbard	#	body	#	returned    bearing	#	<EOL> 
+common block <EOT> expensive piece	#	it	#	common block	#	fine day	#	<EOL> 
+strength left <EOT> door	#	strength left	#	door opened	#	yellow corn	#	<EOL> 
+violent jerk <EOT> marionette	#	frightened	#	poor geppetto	#	mastro antonio	#	<EOL> 
+stared fixedly <EOT> eyes	#	stared fixedly	#	felt insulted	#	finished	#	<EOL> 
+half swallowed <EOT> yellow wig	#	half swallowed	#	downcast	#	cried	#	<EOL> 
+stomach reminded <EOT> omelet flies	#	moments	#	stomach reminded	#	appetite grows	#	<EOL> 
+dozen leaps <EOT> tongue hanging	#	village	#	windows	#	dog	#	<EOL> 
+called    yawning <EOT> door	#	called    yawning	#	voice	#	geppetto	#	<EOL> 
+geppetto held <EOT> geppetto held	#	angry tone	#	"	#	skins	#	<EOL> 
+yawned deeply <EOT> yawned deeply	#	give	#	cores	#	ll eat	#	<EOL> 
+ll learn <EOT> geppetto	#	song	#	truth	#	ll learn	#	<EOL> 
+diamond buttons <EOT> money	#	cloth coat	#	diamond buttons	#	<EOL> 
+ll follow <EOT> puzzled	#	thing	#	<EOL> 
+common sense <EOT> courage	#	mind	#	common sense	#	ll give	#	<EOL> 
+yesterday standing <EOT> father	#	yesterday standing	#	cold	#	today    god	#	<EOL> 
+silly reason <EOT> silly reason	#	cat	#	foolish reason	#	bad advice	#	<EOL> 
+simple simons <EOT> possibly	#	fox	#	simple simons	#	gold piece	#	<EOL> 
+ll give <EOT> ll give	#	fox    pretending	#	cat	#	fox	#	<EOL> 
+a-b-c book <EOT> cat	#	"	#	good resolutions	#	am	#	<EOL> 
+leaf stirred <EOT> visible	#	leaf stirred	#	bats skimmed	#	<EOL> 
+good-by    cricket <EOT> grief	#	nonsense	#	good-by    cricket	#	heaven preserve	#	<EOL> 
+slight rustle <EOT> run	#	slight rustle	#	<EOL> 
+well-nigh exhausted <EOT> well-nigh exhausted	#	sat	#	fell	#	spurred	#	<EOL> 
+hands crossed <EOT> hands crossed	#	voice	#	dead	#	beseeching voice	#	<EOL> 
+girl disappeared <EOT> window	#	girl disappeared	#	lovely maiden	#	coins tinkled	#	<EOL> 
+high limb <EOT> tied pinocchio	#	pulled till	#	grass waiting	#	shut	#	<EOL> 
+rocking made <EOT> dead	#	words	#	blow	#	bell	#	<EOL> 
+jaunty coat <EOT> loving mistress	#	costume	#	rain	#	fairy	#	<EOL> 
+half open <EOT> half open	#	fairy closed	#	crying	#	awful water	#	<EOL> 
+awful medicine <EOT> care	#	bit	#	awful medicine	#	ink    carrying	#	<EOL> 
+short legs <EOT> short legs	#	happen	#	long	#	gold pieces	#	<EOL> 
+fairy showed <EOT> door	#	worst habit	#	eyes half	#	nose	#	<EOL> 
+hour ago <EOT> answer	#	ll answer	#	hour ago	#	half starved	#	<EOL> 
+lonely field <EOT> field	#	patient	#	steps	#	lonely field	#	<EOL> 
+finally turned <EOT> finally turned	#	fruits    cakes	#	fancies	#	gold coins	#	<EOL> 
+brook    filled <EOT> wings	#	marionette	#	gold pieces	#	quiet field	#	<EOL> 
+ll explain <EOT> ll explain	#	great hurry	#	gold pieces	#	"  pinocchio	#	<EOL> 
+pinocchio    standing <EOT> years	#	pinocchio    standing	#	justice	#	great patience	#	<EOL> 
+azure hair <EOT> fairy	#	lovely fairy	#	knees	#	bravely	#	<EOL> 
+disobedient boys <EOT> long run	#	waiting	#	kisses	#	heartless boy	#	<EOL> 
+dead melampo <EOT> dead melampo	#	hear	#	chickens	#	farmer	#	<EOL> 
+faraway hills <EOT> faraway hills	#	back    alive	#	lonely	#	ll hang	#	<EOL> 
+marionette    jumping <EOT> flew	#	marionette	#	marionette    jumping	#	pinocchio    "	#	<EOL> 
+empty coop <EOT> day	#	pigeon	#	pigeon coop	#	morning	#	<EOL> 
+minutes longer <EOT> hated chick-peas	#	relish	#	minutes longer	#	seashore	#	<EOL> 
+huge wave <EOT> boat disappeared	#	waited	#	shore    whispering	#	desperate cry	#	<EOL> 
+waves played <EOT> waves played	#	wanted	#	joints cracked	#	sky cleared	#	<EOL> 
+travel day <EOT> nose	#	wrong	#	thing	#	worst son	#	<EOL> 
+bringing terror <EOT> bringing terror	#	shark	#	dolphin	#	story building	#	<EOL> 
+idle man <EOT> worked	#	idle man	#	work	#	twenty-four hours	#	<EOL> 
+real poor <EOT> beg	#	sick	#	world    deserving	#	worse	#	<EOL> 
+pinocchio cried <EOT> azure hair	#	asked    laughing	#	told	#	grown woman	#	<EOL> 
+poor father <EOT> poor father	#	embrace	#	am	#	answer    pinocchio	#	<EOL> 
+fairy    smiling <EOT> fairy    smiling	#	forgiven	#	kind heart	#	mischievous	#	<EOL> 
+man    remember <EOT> profession	#	work wearies	#	man    remember	#	find happiness	#	<EOL> 
+marionette    mocking <EOT> laughing	#	insulted	#	sins	#	marionette    mocking	#	<EOL> 
+large volume <EOT> books    looked	#	hold	#	large volume	#	pride	#	<EOL> 
+officers called <EOT> quickly	#	innocent	#	fishermen passing	#	wounds	#	<EOL> 
+poor fellow <EOT> words	#	village	#	poor fellow	#	nightmare	#	<EOL> 
+great surprise <EOT> late	#	struggling desperately	#	sea monster	#	thick bush	#	<EOL> 
+giant lizard <EOT> giant lizard	#	fine meal	#	fisherman	#	repelling odor	#	<EOL> 
+pinocchio returns <EOT> head	#	pinocchio returns	#	<EOL> 
+drew back <EOT> fisherman	#	drew back	#	terrible fangs	#	fry    "	#	<EOL> 
+appetizing odor <EOT> world	#	fried fish	#	odor tickled	#	fright	#	<EOL> 
+returned home <EOT> returned home	#	marionette    jumping	#	heavy book	#	pinocchio	#	<EOL> 
+nose returned <EOT> natural size	#	pale    "	#	Let	#	frying pan	#	<EOL> 
+good man <EOT> good man	#	take	#	is	#	words	#	<EOL> 
+accepted quickly <EOT> friends	#	accepted quickly	#	words     "	#	friends    pinocchio	#	<EOL> 
+marionette started <EOT> Good-by	#	friends	#	marionette started	#	vacation begins	#	<EOL> 
+fairy scolds <EOT> Good-by	#	hours	#	wait	#	difference	#	<EOL> 
+ll walk <EOT> ll walk	#	"	#	thing	#	prefer riding	#	<EOL> 
+wagon started <EOT> pinocchio	#	fear	#	reasonable	#	wagon started	#	<EOL> 
+donkeys galloped <EOT> long	#	words	#	wagon rolled	#	pleasure    sooner	#	<EOL> 
+ground    ran <EOT> hands    looked	#	surprise	#	marionette	#	strange thing	#	<EOL> 
+real donkey <EOT> real donkey	#	surprise awaiting	#	eventful morning	#	readers	#	<EOL> 
+long ears <EOT> long ears	#	undone	#	hate books	#	"  asked	#	<EOL> 
+door opened <EOT> marionette	#	minute	#	door opened	#	head    pulled	#	<EOL> 
+parmesan cheese <EOT> parmesan cheese	#	knees hurts	#	dear marionette	#	friends looked	#	<EOL> 
+mine <EOT> mine	#	ear	#	"	#	sickness	#	<EOL> 
+boys pulled <EOT> contract	#	caps	#	"	#	boys pulled	#	<EOL> 
+friend    lamp-wick <EOT> hearty laughter	#	cried	#	Lamp-Wick	#	fell	#	<EOL> 
+hearty blow <EOT> hearty blow	#	donkey perfectly	#	lashing	#	beating    pinocchio	#	<EOL> 
+bad companions <EOT> bad companions	#	dear master	#	circus owner	#	bad fall	#	<EOL> 
+harm -- <EOT> cents	#	harm --	#	world	#	story end	#	<EOL> 
+pinocchio    falling <EOT> half hour	#	remember	#	inkwell	#	heard	#	<EOL> 
+tunny <EOT> tunny	#	shark	#	"	#	escape	#	<EOL> 
+feet splashed <EOT> pinocchio thought	#	tiny light	#	glass bottle	#	table	#	<EOL> 
+whispered    turning <EOT> whispered    turning	#	fast asleep	#	day	#	saved	#	<EOL> 
+bound apprentice <EOT> bound apprentice	#	famous surgeon	#	learning navigation	#	leaving	#	<EOL> 
+small house <EOT> small house	#	Edmund	#	business began	#	captain	#	<EOL> 
+stage    commanded <EOT> received tidings	#	lark	#	time	#	thousand marks	#	<EOL> 
+great officials <EOT> great officials	#	carriage stopped	#	break loose	#	life	#	<EOL> 
+manner    taking <EOT> delivered bound	#	coat pocket	#	colonel	#	bound	#	<EOL> 
+majesty approved <EOT> proper officers	#	military discipline	#	performance	#	hoof    struck	#	<EOL> 
+mighty emperor <EOT> solemn oath	#	great seal	#	Second	#	hours    warning	#	<EOL> 
+solemn oath <EOT> " sixth	#	invade	#	" lastly	#	royal person	#	<EOL> 
+court stood <EOT> shore awaiting	#	large half-moon	#	hostile manner	#	highest title	#	<EOL> 
+ambassadors arrived <EOT> open war	#	faithful subject	#	treasurer insisted	#	eyes    justice	#	<EOL> 
+royal family <EOT> graciously gave	#	put immediately	#	departure	#	good bundle	#	<EOL> 
+set sail <EOT> set sail	#	sail steering	#	wind slackened	#	evening    sept	#	<EOL> 
+coat pockets <EOT> coat pockets	#	captain received	#	great astonishment	#	april    1702	#	<EOL> 
+roof shook <EOT> looked back	#	St	#	watch	#	oldest son	#	<EOL> 
+creaking began <EOT> stand	#	hay flew	#	Cinderlad	#	suddenly grew	#	<EOL> 
+heartily frightened <EOT> cinderlad	#	St	#	heartily frightened	#	barn	#	<EOL> 
+long story <EOT> glass hill	#	great distance	#	turned back	#	usual sitting	#	<EOL> 
+silver armor <EOT> turned back	#	golden apple	#	sit grubbing	#	days	#	<EOL> 
+thou hast <EOT> thou hast	#	glass hill	#	moe	#	fairy paribanou	#	<EOL> 
+prove favorable <EOT> extraordinary rarity	#	prove favorable	#	gave orders	#	merchant    attended	#	<EOL> 
+prince ahmed <EOT> extraordinary properties	#	great treasure	#	easiest manner	#	virtues	#	<EOL> 
+celebrated philosopher <EOT> indifferent circumstances	#	favorable opportunity	#	sick person	#	desired effect	#	<EOL> 
+artificial apple <EOT> equally contributed	#	to-day	#	exercise horses	#	princess nouronnihar	#	<EOL> 
+greatest happiness <EOT> advantageous	#	greater blessing	#	iron door	#	easy descent	#	<EOL> 
+religion teaches <EOT> hall	#	longer surprised	#	religion teaches	#	distinguished genies	#	<EOL> 
+give mine <EOT> ll give	#	wife	#	meanest part	#	excellent meats	#	<EOL> 
+finely wrought <EOT> finely wrought	#	exquisitely nice	#	choicest sweetmeats	#	continual feast	#	<EOL> 
+fourth returned <EOT> fairy paribanou	#	prince ahmed	#	finer	#	constantly paid	#	<EOL> 
+women carried <EOT> journey	#	fairy	#	opportunity	#	palace	#	<EOL> 
+desire <EOT> extremity	#	displeasure	#	sake	#	offending	#	<EOL> 
+ll follow <EOT> ll follow	#	ll inform	#	schaibar	#	giving audience	#	<EOL> 
+prince ahmed <EOT> iron bar	#	grand vizier	#	flattering favorites	#	stand staring	#	<EOL> 
+handsome house <EOT> handsome house	#	welsh giant	#	good bed	#	clothes quickly	#	<EOL> 
+collop    fur <EOT> collop    fur	#	auld wife	#	coach-and-four coming	#	yon	#	<EOL> 
+ae fit <EOT> ae fit	#	bull returned	#	grat    till	#	gaed awa	#	<EOL> 
+red etin <EOT> small bit	#	twa sons	#	water	#	maist part	#	<EOL> 
+monstrous beasts <EOT> man	#	man attending	#	monstrous beasts	#	instant dead	#	<EOL> 
+king married <EOT> young men	#	scotland	#	village	#	air    gaping	#	<EOL> 
+coarse petticoats <EOT> wooden shoes	#	companions round	#	dry bread	#	beloeil	#	<EOL> 
+lead    sleeping <EOT> till mid-day	#	found worn	#	daughters wore	#	princes arrived	#	<EOL> 
+michael knew <EOT> violent longing	#	impudence	#	star gazer	#	golden rake	#	<EOL> 
+princesses laughing <EOT> princesses laughing	#	sisters	#	satin shoes	#	ready       asked	#	<EOL> 
+princess lina <EOT> disdainful manner	#	michael behaved	#	side	#	eldest sister	#	<EOL> 
+crossed back <EOT> crossed back	#	enchanted castle	#	duke	#	golden cup	#	<EOL> 
+neighbouring courts <EOT> queen :	#	predictions	#	queen laughed	#	twentieth year	#	<EOL> 
+grand entry <EOT> grand entry	#	queen	#	cried harder	#	city gates	#	<EOL> 
+single minute <EOT> procession appeared	#	white horse	#	attire	#	solid gold	#	<EOL> 
+ambassador arrived <EOT> ambassador arrived	#	carried baskets	#	princess ready	#	butterflies    wings	#	<EOL> 
+cat-o   -nine-tails <EOT> dumb	#	cat-o   -nine-tails	#	squirrel island	#	profound slumber	#	<EOL> 
+bush rustling <EOT> prettiest rosebud	#	mayblossom ran	#	ran	#	eaten	#	<EOL> 
+humbly asked <EOT> humbly asked	#	rustling leaves	#	fanfaronade	#	pray save	#	<EOL> 
+aid gladly <EOT> sooner	#	message reached	#	aid gladly	#	enemy	#	<EOL> 
+lucky moment <EOT> port	#	princess	#	fault	#	scarlet uniforms	#	<EOL> 
+master    hurried <EOT> sat raking	#	chimney corner	#	asked halvor	#	halvor	#	<EOL> 
+wheel spinning <EOT> wheel spinning	#	devour	#	heads lives	#	frightfully hungry	#	<EOL> 
+christian man <EOT> christian man	#	asked halvor	#	told	#	miles farther	#	<EOL> 
+grey light <EOT> quickly	#	grey light	#	livelong day	#	afraid	#	<EOL> 
+caught sight <EOT> time	#	caught sight	#	inside	#	equal	#	<EOL> 
+woman rising <EOT> halvor sat	#	told halvor	#	called halvor	#	halvor	#	<EOL> 
+hole ran <EOT> hole ran	#	sir	#	home raking	#	good heavens	#	<EOL> 
+great feast <EOT> respect paid	#	halvor	#	large pond	#	pleasant	#	<EOL> 
+halvor laid <EOT> fell asleep	#	holding	#	Castle	#	halvor awoke	#	<EOL> 
+hundred dollars <EOT> hundred dollars	#	man	#	halvor longed	#	horse	#	<EOL> 
+lingered longer <EOT> green spots	#	end	#	light shining	#	warm	#	<EOL> 
+long nose <EOT> chimney corner	#	hundred years	#	halvor told	#	presently	#	<EOL> 
+west wind <EOT> hasten	#	west wind	#	walls creaked	#	thither	#	<EOL> 
+west wind <EOT> west wind	#	young girls	#	cup-bearer	#	halvor heard	#	<EOL> 
+garden green <EOT> garden green	#	lightning	#	prince	#	ceiling split	#	<EOL> 
+prince ivan <EOT> year	#	garden green	#	lightning	#	sister	#	<EOL> 
+hail    prince <EOT> white tent	#	god send	#	thereat	#	marya morevna	#	<EOL> 
+prince gave <EOT> thirst    give	#	strength    gave	#	terrible whirlwind	#	laid hold	#	<EOL> 
+silver fork <EOT> eagle	#	silver fork	#	remember	#	left	#	<EOL> 
+outlandish bird <EOT> mares afield	#	prince	#	sleep	#	outlandish bird	#	<EOL> 
+to-morrow run <EOT> home	#	back home	#	blue sea	#	night	#	<EOL> 
+sharp sword <EOT> pursue	#	sharp sword	#	prince made	#	burnt koshchei	#	<EOL> 
+kind instruction <EOT> lose	#	engaging manner	#	readily consented	#	esteem	#	<EOL> 
+formidable shape <EOT> water	#	easily destroy	#	tree    bringing	#	hellish art	#	<EOL> 
+cock crew <EOT> put	#	natural shapes	#	drawn	#	fire    till	#	<EOL> 
+fatigue obliged <EOT> young woman	#	wondered greatly	#	human flesh	#	child    "	#	<EOL> 
+immediately turned <EOT> behave	#	pie	#	fairly convinced	#	satisfied	#	<EOL> 
+found running <EOT> large fish-pond	#	violent leap	#	sir knight	#	giant	#	<EOL> 
+body hanging <EOT> body hanging	#	hard lot	#	breathe life	#	went	#	<EOL> 
+whatsoever work <EOT> governor	#	whatsoever work	#	master thief	#	governor    laughing	#	<EOL> 
+beggar boy <EOT> sunday	#	youth thought	#	beggar boy	#	house	#	<EOL> 
+ran round <EOT> catch	#	running	#	thought	#	told	#	<EOL> 
+trick played <EOT> master thief	#	aware	#	priest repeated	#	promised	#	<EOL> 
+night wore <EOT> sit	#	crept farther	#	night wore	#	arms backwards	#	<EOL> 
+governor    nudging <EOT> governor    nudging	#	bedside	#	arranged	#	caught sight	#	<EOL> 
+sheet won <EOT> sheet	#	gave	#	sheet won	#	bed	#	<EOL> 
+good heavens <EOT> hour	#	governor	#	blood	#	ill spoken	#	<EOL> 
+crept secretly <EOT> crept secretly	#	wild beast	#	dreadfully thirsty	#	spring	#	<EOL> 
+beautiful creature <EOT> beautiful creature	#	ran home	#	door opened	#	ho    ho	#	<EOL> 
+king promised <EOT> king promised	#	rush cord	#	greatest splendour	#	palace gardens	#	<EOL> 
+carefully shook <EOT> bed    laid	#	gently stroked	#	silently left	#	nurse	#	<EOL> 
+natural shape <EOT> natural shape	#	Grimm	#	beautiful sons	#	splendid banquet	#	<EOL> 
+hundred years <EOT> have	#	king noticed	#	distaff	#	hundred years	#	<EOL> 
+green grass <EOT> sparkling fountains	#	turning head	#	great delight	#	rosette thought	#	<EOL> 
+peacocks    feathers <EOT> peacocks    feathers	#	twelve peacocks	#	handsome	#	crown	#	<EOL> 
+dry land <EOT> princess	#	bare feet	#	princess put	#	great lady	#	<EOL> 
+terribly cross <EOT> terribly cross	#	supper	#	nicest morsels	#	looked	#	<EOL> 
+bed half-starved <EOT> terrible temper	#	mysteriously disappeared	#	dark corner	#	pot    transfer	#	<EOL> 
+king noticed <EOT> meet	#	sad	#	king noticed	#	hot iron	#	<EOL> 
+witch told <EOT> talk	#	healing powers	#	husband	#	good fortune-teller	#	<EOL> 
+dear child <EOT> state	#	healing power	#	changed back	#	reward	#	<EOL> 
+length    wearied <EOT> length    wearied	#	admission	#	sun opened	#	bad temper	#	<EOL> 
+sun gave <EOT> princess	#	great care	#	set	#	cross fields	#	<EOL> 
+step <EOT> useless	#	bones	#	idea	#	stuck	#	<EOL> 
+kings rule <EOT> kings rule	#	ruling happily	#	Nite	#	queen	#	<EOL> 
+prince pulled <EOT> earth began	#	feet    crossed	#	prince ran	#	stable    laid	#	<EOL> 
+fairy tale <EOT> bedroom	#	rest	#	husband dear	#	thou shalt	#	<EOL> 
+brothers hoisted <EOT> great height	#	prince poured	#	walked	#	thunder roared	#	<EOL> 
+princes -- <EOT> back	#	servant	#	prince	#	prince began	#	<EOL> 
+midnight sounded <EOT> midnight sounded	#	prince arose	#	palaces back	#	robes	#	<EOL> 
+black sheep <EOT> answer       eat	#	slaughtered	#	set	#	girl remembered	#	<EOL> 
+usual place <EOT> usual place	#	son carried	#	daughter held	#	royal banquet	#	<EOL> 
+witch gave <EOT> witch gave	#	usual	#	suffer	#	magic power	#	<EOL> 
+cinder wench <EOT> cinder wench	#	grief	#	golden hemlock	#	stood	#	<EOL> 
+sacks full <EOT> splendid steed	#	long time	#	young king	#	infant	#	<EOL> 
+wife back <EOT> wife back	#	widow woman	#	cows	#	aspens --	#	<EOL> 
+witch interfered <EOT> widow woman	#	open air	#	widow	#	man-eater grim	#	<EOL> 
+climbing higher <EOT> grew afraid	#	beanstalk stood	#	perpendicular rock	#	strange-looking woman	#	<EOL> 
+pushed open <EOT> giant put	#	pushed open	#	flew back	#	carried	#	<EOL> 
+money bags <EOT> rich	#	money bags	#	jack made	#	husband coming	#	<EOL> 
+giantess rose <EOT> giantess rose	#	call	#	golden pieces	#	giantess obeyed	#	<EOL> 
+thought jack <EOT> money	#	castle	#	thought jack	#	piles    till	#	<EOL> 
+talking harp <EOT> jack told	#	jack	#	castle	#	talking harp	#	<EOL> 
+wife brought <EOT> wife brought	#	harp	#	giantess obeyed	#	gold	#	<EOL> 
+huge kitchen <EOT> huge kitchen	#	giant woke	#	tremendous roar	#	nimble	#	<EOL> 
+generous feeling <EOT> generous feeling	#	find needful	#	jack asked	#	peacocks	#	<EOL> 
+fairy drove <EOT> fairy drove	#	number	#	young gentleman	#	serve jack	#	<EOL> 
+giantess buried <EOT> fairy	#	giantess buried	#	fairy explained	#	stupidly wondered	#	<EOL> 

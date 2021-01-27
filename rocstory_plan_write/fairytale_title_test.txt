@@ -1,0 +1,9 @@
+ <EOT>
+forest <EOT>
+mountain <EOT>
+castle <EOT>
+prince in forest <EOT>
+princess in castle <EOT>
+fish in river <EOT>
+tiger in mountain <EOT>
+bird in forest <EOT>

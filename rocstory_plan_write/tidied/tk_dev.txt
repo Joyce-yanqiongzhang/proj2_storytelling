@@ -1,0 +1,200 @@
+prince <EOT> golden sword	#	waited till	#	horrible death	#	feet high	#	thing happened	#	fine coach	#	great train	#	plenty left	#	sleeping draught	#	nights running	#	<EOL> 
+princess <EOT> ten years	#	dale till	#	handsome couple	#	raging wind	#	young couple	#	royal highness	#	bride walked	#	fitting entry	#	peace till	#	safely back	#	sentence read	#	<EOL> 
+king  <EOT> ten years	#	dale till	#	handsome couple	#	raging wind	#	young couple	#	royal highness	#	bride walked	#	fitting entry	#	peace till	#	safely back	#	sentence read	#	<EOL> 
+prince <EOT> hundred crowns	#	grew dark	#	set free	#	queen declared	#	sad fate	#	golden mane	#	small bill	#	bowed low	#	brilliant victory	#	drove home	#	<EOL> 
+cat <EOT> exact truth	#	answer truthfully	#	wisest greybeard	#	ten years	#	gentle breeze	#	peasants  lunching	#	golden harvest	#	great cleverness	#	week good	#	bolt hits	#	royal presents	#	<EOL> 
+dog <EOT> coiled  hissing	#	fright expecting	#	arch unwound	#	long time	#	immediately die	#	man obeyed	#	living creature	#	silver beneath	#	beautiful clothes	#	work havoc	#	made ready	#	<EOL> 
+sheep  <EOT> coiled  hissing	#	fright expecting	#	arch unwound	#	long time	#	immediately die	#	man obeyed	#	living creature	#	silver beneath	#	beautiful clothes	#	work havoc	#	made ready	#	<EOL> 
+angel  <EOT> side hung	#	hide altogether	#	catch hold	#	slid quietly	#	royal carriage	#	dream	#	nice present	#	boy dearly	#	young princes	#	long ago	#	<EOL> 
+princess <EOT> wild animals	#	grow uneasy	#	coiled round	#	city walls	#	good hares	#	fate overtakes	#	woman remained	#	hearth  whereat	#	made fun	#	wild boar	#	large city	#	<EOL> 
+prince <EOT> goddess venus	#	wife  listen	#	wanderings led	#	plunged boldly	#	steps straight	#	son  whispered	#	flowery fields	#	strange lying	#	cloak round	#	perfectly empty	#	turned sadly	#	eagle hovering	#	<EOL> 
+king <EOT> father died	#	greatly delighted	#	great sums	#	galloped straight	#	gathered round	#	longing grew	#	prince mounted	#	comfortable tonight	#	youth answered	#	feel comfortable	#	begun working	#	<EOL> 
+king <EOT> young lad	#	shaggy hair	#	evil spirit	#	spectre grinned	#	common property	#	square slab	#	spacious hall	#	great crackings	#	woe betide	#	spirit promised	#	<EOL> 
+king <EOT> returned sorrowfully	#	started merrily	#	hours  till	#	numbers hoping	#	great rock	#	impossible thing	#	deaf ear	#	son left	#	man appeared	#	trouble call	#	gayest plumage	#	<EOL> 
+princess <EOT> lived happily	#	true worth	#	prime minister	#	cliff jutting	#	fresh fruit	#	lady politely	#	commonly taught	#	looked back	#	ordered preparations	#	making peace	#	great deal	#	<EOL> 
+wolf  <EOT> poultry yard	#	good-morning  godfather	#	marten told	#	marten remembering	#	friendly manner	#	simple question	#	common dinner	#	stare hard	#	flying back	#	trembling voice	#	absent voice	#	<EOL> 
+prince <EOT> pure pleasure	#	parents speak	#	poor woman	#	good beating	#	warmly welcomed	#	air resounded	#	strange ways	#	observant  noticed	#	children follow	#	strong paws	#	cock crowed	#	<EOL> 
+angel <EOT> trusted servants	#	rising ground	#	spring underneath	#	free carriage	#	good youth	#	beauty princes	#	slightest effect	#	black raiment	#	moths round	#	friendly letters	#	flashing stones	#	<EOL> 
+dog <EOT> trusted servants	#	rising ground	#	spring underneath	#	free carriage	#	good youth	#	beauty princes	#	slightest effect	#	black raiment	#	moths round	#	friendly letters	#	flashing stones	#	<EOL> 
+bird  <EOT> grew weary	#	holy man	#	magical basket	#	waited till	#	ready cooked	#	ate till	#	understand eh	#	suddenly mad	#	cellar  hoping	#	thin soup	#	delighted  repeated	#	<EOL> 
+dog  <EOT> thirty miles	#	scarlet pomegranates	#	fist stretched	#	grey  shrieked	#	heard 	#	powerful charms	#	thoughts rushed	#	loveliest song	#	rate till	#	suddenly grave	#	<EOL> 
+queen  <EOT> life allowed	#	foreign countries	#	leather jerkin	#	savage beasts	#	lower road	#	roll stones	#	large stone	#	wonderful deed	#	fifty knights	#	comfort 	#	sharp spike	#	<EOL> 
+king  <EOT> heard coming	#	difficulty arose	#	head high	#	cared 	#	visit to-morrow	#	golden palace	#	face  blotting	#	charming  answered	#	wishes  turned	#	feelings  declared	#	powder  simply	#	<EOL> 
+bee <EOT> distant group	#	solemn word	#	months passed	#	foolish thing	#	queen agreed	#	evening drew	#	gladly picked	#	prince thanked	#	trotted gaily	#	dry ferns	#	bad sleeper	#	<EOL> 
+prince <EOT> small cottage	#	fire  begging	#	sat silent	#	woman	#	veil round	#	hearts sank	#	red purse	#	neighbours wondered	#	trembling voice	#	beautiful garden	#	<EOL> 
+king  <EOT> children loved	#	usual playground	#	seek till	#	listen silently	#	golden hens	#	bedfellow cousin	#	hens   replied	#	grains lying	#	scarcely noticed	#	turned back	#	<EOL> 
+princess <EOT> asked anxiously	#	dreadful doom	#	outer world	#	disappeared round	#	strict orders	#	black horse	#	neighbouring kingdoms	#	long journey	#	past sorrows	#	ten feet	#	rough projection	#	<EOL> 
+princess <EOT> arm crying	#	baby began	#	ball farther	#	voice calling	#	strange cat	#	walked meekly	#	ingibjorg grew	#	soft hay	#	bleeding legs	#	great pot	#	<EOL> 
+king <EOT> arm crying	#	baby began	#	ball farther	#	voice calling	#	strange cat	#	walked meekly	#	ingibjorg grew	#	soft hay	#	bleeding legs	#	great pot	#	<EOL> 
+prince <EOT> earliest childhood	#	delightful idea	#	pet treasures	#	favourable wind	#	beautiful shape	#	breast  carried	#	oaks planted	#	beautiful silk	#	ghastly food	#	shouting angrily	#	elegant robe	#	<EOL> 
+dog <EOT> strange things	#	flowery meadows	#	field labourer	#	bad man	#	green lawn	#	good plan	#	cool waters	#	forget-me-nots fringed	#	calling merrily	#	frightened playmates	#	purple mantle	#	<EOL> 
+princess <EOT> halfpenny daily	#	greater comfort	#	carefully wrapped	#	message entrusted	#	rich silks	#	costly things	#	munificent reward	#	greatly discomfited	#	beautiful animals	#	heard stories	#	wealth laid	#	<EOL> 
+prince <EOT> stepped forward	#	duke stepped	#	strangest thing	#	escape death	#	great favourite	#	fourteenth night	#	girl sir	#	feel uncomfortable	#	thankfully accept	#	small house	#	give judgment	#	died  leaving	#	<EOL> 
+queen  <EOT> stepped forward	#	duke stepped	#	strangest thing	#	escape death	#	great favourite	#	fourteenth night	#	girl sir	#	feel uncomfortable	#	thankfully accept	#	small house	#	give judgment	#	died  leaving	#	<EOL> 
+lion <EOT> sharks loved	#	fifty years	#	fruit fell	#	shadow  hoping	#	gloomy matters	#	water ugh	#	floated past	#	silent   inquired	#	calm  indifferent	#	caught sight	#	<EOL> 
+dog <EOT> wide world	#	kuckeliku lives	#	bad memory	#	wonderfully brave	#	sheepskin coat	#	red cock	#	bone handle	#	fattest ram	#	good shaking	#	good stick	#	tear holes	#	<EOL> 
+prince <EOT> kind words	#	stand back	#	ladies stretched	#	cat  ud	#	rope guards	#	wide open	#	good manner	#	rough words	#	poor people	#	ate three-quarters	#	<EOL> 
+king <EOT> nice princesses	#	enchanted prince	#	richest carpets	#	grand hall	#	happy twelvemonth	#	inches open	#	dog passed	#	wide chimney	#	safe back	#	bring eggs	#	sweet drink	#	fine ashes	#	<EOL> 
+queen <EOT> nice princesses	#	enchanted prince	#	richest carpets	#	grand hall	#	happy twelvemonth	#	inches open	#	dog passed	#	wide chimney	#	safe back	#	bring eggs	#	sweet drink	#	fine ashes	#	<EOL> 
+rabbit  <EOT> stout cart-horse	#	rose softly	#	breakfast ah	#	gladly remain	#	men coming	#	wax fell	#	barrel   answered	#	stretched dead	#	to-morrow meet	#	dark lad	#	eyes opened	#	<EOL> 
+king <EOT> mighty cautious	#	counted worth	#	moonlight night	#	great gathering	#	mister dorman	#	empty bottle	#	stiff head	#	youngest girl	#	fish jumping	#	cray-fish                 determined	#	bright mackrel	#	great ling	#	<EOL> 
+prince <EOT> floor 	#	daughter mourned	#	fire  lend	#	woman borrowed	#	departed  pleased	#	rich unluckily	#	rich woman	#	husband returned	#	catching hold	#	big branches	#	<EOL> 
+king  <EOT> hardest task	#	flowed past	#	stream fell	#	wooden bowls	#	felt hungry	#	deep shadow	#	homewards  feeling	#	large stone	#	curious leaf	#	boughs covered	#	strangers  stayed	#	<EOL> 
+cat <EOT> iron lock	#	herb plot	#	miles round	#	secret longing	#	sixteen tufts	#	boating excursion	#	fresh milk	#	mighty king	#	queen wellamos	#	special kind	#	<EOL> 
+king <EOT> big sister	#	greedy sparrow	#	sugar  otto	#	back safely	#	short dresses	#	berry pickers	#	pine tops	#	grow dark	#	large sandwich	#	good appetite	#	tree tops	#	<EOL> 
+pig  <EOT> camp fire	#	desolate moor	#	small pebbles	#	pretty girl	#	good appetite	#	wooden spoon	#	church tower	#	wicked pranks	#	baptised soul	#	lose  to-morrow	#	hunted eagerly	#	<EOL> 
+lion  <EOT> thanked gratefully	#	hearty appetite	#	wheaten loaf	#	costly things	#	world  replied	#	house bent	#	fairy armed	#	iron ball	#	idiot rose	#	hazel wand	#	neck hung	#	<EOL> 
+sheep  <EOT> thou art	#	manawyddan found	#	light shone	#	grew weary	#	townsfolk love	#	teach thee	#	watched till	#	newly built	#	marble round	#	home  thinking	#	darkness descended	#	<EOL> 
+bird <EOT> strange things	#	grow thereon	#	rode past	#	mind dwelt	#	golden sword	#	grass bent	#	sweet wine	#	kingly men	#	land   cried	#	sea encircles	#	heart warms	#	<EOL> 
+lion <EOT> street corner	#	strange language	#	large tortoise	#	turning round	#	make friends	#	profound secret	#	bestow gifts	#	tremendous rumbling	#	great consternation	#	iron doors	#	twentieth year	#	approaching freedom	#	<EOL> 
+princess <EOT> chimney corner	#	strange coast	#	wide plains	#	great highway	#	heads lives	#	perfect ease	#	christian man	#	grey light	#	troll lives	#	princess   '	#	<EOL> 
+king  <EOT> chimney corner	#	strange coast	#	wide plains	#	great highway	#	heads lives	#	perfect ease	#	christian man	#	grey light	#	troll lives	#	princess   '	#	<EOL> 
+pig <EOT> mother  sickened	#	pastime requisite	#	consort 	#	daring insult	#	butter  likewise	#	demand	#	left desolate	#	full time	#	kind instruction	#	cunningly challenged	#	sorely grieved	#	<EOL> 
+dog <EOT> wide world	#	long walk	#	dreadfully thirsty	#	longer till	#	sat sadly	#	long long	#	delightful kind	#	prayed till	#	beautiful creature	#	gradually encircled	#	blood bound	#	<EOL> 
+princess <EOT> splendid banquet	#	great deal	#	hundred years	#	king knew	#	head cut	#	white mule	#	hastened back	#	fifteen years	#	diamond crown	#	corner rosette	#	sparkling fountains	#	great delight	#	<EOL> 
+king <EOT> wild animals	#	stupid  feeling	#	pursuit presently	#	pursuit  caught	#	world  crying	#	youngest brother	#	courtyard  tied	#	husband dear	#	stayed awhile	#	looked 	#	enchantresses 	#	<EOL> 
+king <EOT> wife shows	#	fell a-weeping	#	strong desire	#	white strand	#	good fortune	#	thou wilt	#	straight forward	#	small chamber	#	ointment fall	#	longing grew	#	mother wanted	#	<EOL> 
+king  <EOT> voracious horde	#	queer face	#	music singing	#	horrible vermin	#	moon rose	#	market place	#	flooded torrent	#	ninety thousand	#	au revoir	#	fifty crowns	#	<EOL> 
+prince <EOT> large mouth	#	amiable creature	#	disdainful air	#	hundred years	#	perfectly happy	#	unhappy princess	#	safely locked	#	deeply interested	#	grown dark	#	savoury dinner	#	excellent supper	#	<EOL> 
+king <EOT> large mouth	#	amiable creature	#	disdainful air	#	hundred years	#	perfectly happy	#	unhappy princess	#	safely locked	#	deeply interested	#	grown dark	#	savoury dinner	#	excellent supper	#	<EOL> 
+crocodile <EOT> large mouth	#	amiable creature	#	disdainful air	#	hundred years	#	perfectly happy	#	unhappy princess	#	safely locked	#	deeply interested	#	grown dark	#	savoury dinner	#	excellent supper	#	<EOL> 
+princess <EOT> small birds	#	woods  whispering	#	eternal lilie	#	golden apples	#	golden skin	#	jumped lightly	#	longer catch	#	young friend	#	true wisdom	#	wall till	#	brush lastly	#	<EOL> 
+bird <EOT> small birds	#	woods  whispering	#	eternal lilie	#	golden apples	#	golden skin	#	jumped lightly	#	longer catch	#	young friend	#	true wisdom	#	wall till	#	brush lastly	#	<EOL> 
+king <EOT> twelve children	#	peace  till	#	red flag	#	blood red	#	fetch food	#	gold star	#	shirts hanging	#	golden star	#	earth till	#	make matters	#	promise faithfully	#	<EOL> 
+wolf  <EOT> naked feet	#	lonely cottage	#	offer produced	#	rough voice	#	future bride	#	chair nodding	#	finished sewing	#	spinning-wheel knew	#	late rains	#	violent rage	#	<EOL> 
+princess <EOT> year brought	#	room ah	#	twin brother	#	short distance	#	green meadow	#	short time	#	crook-backed hag	#	great   replied	#	high hills	#	hundred lasts	#	thou comest	#	sailing thither	#	<EOL> 
+dog  <EOT> boy thought	#	food accompanied	#	unpleasant piece	#	worst bit	#	fine show	#	water close	#	spoke ashes	#	jaw grew	#	hands clasped	#	youth sprang	#	brother arrived	#	<EOL> 
+king <EOT> rocks pictures	#	great warrior	#	change clothes	#	grows cold	#	white beard	#	heard stories	#	pool beneath	#	dwarf wore	#	poor dwarf	#	edges sigurd	#	<EOL> 
+princess <EOT> played ducks	#	dreadful somersault-just	#	great castle	#	thoughts swam	#	sabre set	#	listen attentively	#	times scoured	#	plates clattered	#	foreign bird	#	door opened	#	<EOL> 
+queen <EOT> boiled spinach	#	tiny bits	#	sweet peas	#	pretty patterns	#	clear stars	#	winked hard	#	magic mirror	#	picture book	#	warm gloves	#	kay fastened	#	<EOL> 
+king <EOT> greatly rejoiced	#	finest fashion	#	greatly distressed	#	single hour	#	friendly manner	#	dead man	#	large sum	#	friendly fashion	#	directions faithfully	#	bitterly lamented	#	<EOL> 
+bird  <EOT> tallest man	#	face brightened	#	passer-by ca	#	raspberries  smiled	#	continually inventing	#	heard singing	#	hiding place	#	greatest holiday	#	girls gaily	#	turned hastily	#	<EOL> 
+king <EOT> greatest treasure	#	bear trouble	#	richest merchandise	#	sad face	#	open door	#	catherine wandered	#	hard words	#	loud voice	#	idea   exclaimed	#	poor girl	#	surely time	#	<EOL> 
+bird  <EOT> miles round	#	magnificent halls	#	talking bird	#	bowed politely	#	lay hid	#	turn round	#	lost patience	#	disenchant	#	scoffing sounds	#	horror brought	#	fallen	#	<EOL> 
+princess <EOT> bread crumbs	#	luck  put	#	nonsense   exclaimed	#	good luck	#	tender farewell	#	men left	#	young man	#	great rushing	#	fought till	#	thick cloth	#	wicked plan	#	<EOL> 
+lion  <EOT> large town	#	eaten  began	#	ship lying	#	vessel started	#	begged leave	#	ready bring	#	loose boards	#	eleven friends	#	nice plaything	#	bed screaming	#	eighth day	#	<EOL> 
+dog  <EOT> taking service	#	bears  deer	#	dogs barked	#	unquiet life	#	lad replied	#	great delight	#	wild beasts	#	glass palace	#	bright mussel-shells	#	prettiest creature	#	time passed	#	<EOL> 
+dog <EOT> prettiest clothes	#	pull heather	#	red cap	#	gold coin	#	story 	#	finest cakes	#	easily eat	#	violent death	#	beauty spread	#	great desire	#	greatly distressed	#	<EOL> 
+bird  <EOT> young doves	#	driven distracted	#	heron flew	#	jackal preparing	#	river watching	#	wind blows	#	large wings	#	instantly ate	#	jackal  bring	#	thing happened	#	<EOL> 
+king <EOT> dear boys	#	months passed	#	died quietly	#	fine fellows	#	wide end	#	cutting wood	#	wondering sadly	#	good bottle	#	parted company	#	fine clothes	#	great honour	#	<EOL> 
+king <EOT> great deal	#	rich asked	#	mere pleasure	#	shining bright	#	dirty creature	#	large sum	#	riches reached	#	great service	#	eldest daughter	#	husband bitterly	#	elder girl	#	<EOL> 
+queen  <EOT> great deal	#	rich asked	#	mere pleasure	#	shining bright	#	dirty creature	#	large sum	#	riches reached	#	great service	#	eldest daughter	#	husband bitterly	#	elder girl	#	<EOL> 
+angel <EOT> short fore-legs	#	miserably failed	#	good heart	#	richly repaid	#	felt lonely	#	wandering fool	#	settled dwelling	#	feathered companions	#	heart beat	#	listened attentively	#	maiden  gliding	#	<EOL> 
+king  <EOT> iron case	#	young lassie	#	great joy	#	mill rattling	#	stove called	#	precious stones	#	sharp swords	#	wild beasts	#	roast meats	#	valley till	#	cutting swords	#	<EOL> 
+bird  <EOT> suffer hunger	#	gold piece	#	feathers flew	#	cut open	#	darling daughter	#	hospitably entertained	#	hunter drink	#	wonderful thing	#	easily remove	#	fell asleep	#	mountain belonged	#	<EOL> 
+prince <EOT> remained alive	#	precious things	#	bath  woe	#	words told	#	terrible voice	#	prey waiting	#	woman appeared	#	foal grew	#	youth mounted	#	solid rock	#	secret passage	#	<EOL> 
+princess <EOT> tender farewell	#	sitting resting	#	poor boy	#	ferko continued	#	hand eagerly	#	successfully maimed	#	amany things	#	years ago	#	shining brightly	#	howl dismally	#	big bird	#	<EOL> 
+prince <EOT> uncertain temper	#	terrible pictures	#	turned loose	#	neighbouring sovereign	#	instantly began	#	deep interest	#	golden isle	#	lemon trees	#	small islands	#	perfectly inconsolable	#	pine avenue	#	<EOL> 
+king <EOT> twelve years	#	evening safe	#	fell heavily	#	violently seized	#	severely punished	#	mortal dread	#	head silently	#	present guise	#	deep slumber	#	axe unbroken	#	bundles ready	#	<EOL> 
+king <EOT> royal lord	#	royal husband	#	insects hum	#	cares	#	good fortune	#	water  clear	#	dear wife	#	green banks	#	large kettleful	#	weep       sharp	#	weep            sharp	#	stone cold	#	<EOL> 
+prince <EOT> woman counted	#	dogs mixing	#	useless brute	#	poor beast	#	great passion	#	worked diligently	#	fresh work	#	faithful service	#	dazzling gems	#	single night	#	terrible death	#	<EOL> 
+queen <EOT> living grave	#	neighbouring town	#	kind heart	#	heaven prosper	#	roamed round	#	prince thanked	#	prince wandered	#	diamond windows	#	great shock	#	suddenly bethought	#	eagles driving	#	<EOL> 
+king <EOT> parents  blessing	#	short distance	#	cold meat	#	kindly  bade	#	ready-made ship	#	ship flew	#	hit beast	#	basket full	#	onward  till	#	mighty drinker	#	people freeze	#	<EOL> 
+prince <EOT> white horse	#	extraordinary dream	#	queen consented	#	invisible hands	#	sun-tree grew	#	turning round	#	black wolves	#	fairy  foreseeing	#	strength failed	#	return  anxious	#	claws tore	#	<EOL> 
+dog  <EOT> founder beneath	#	horse gave	#	deeper grew	#	bad plight	#	altogether pleasant	#	exceedingly kind	#	sprang back	#	great treasure	#	good service	#	friendly farewell	#	dog spoke	#	<EOL> 
+prince <EOT> father grew	#	pussy cat	#	chattered french	#	black  drew	#	sat working	#	wonderful thing	#	ten kisses	#	prettily 	#	sausages 	#	waltzes  galops	#	<EOL> 
+princess <EOT> father grew	#	pussy cat	#	chattered french	#	black  drew	#	sat working	#	wonderful thing	#	ten kisses	#	prettily 	#	sausages 	#	waltzes  galops	#	<EOL> 
+king <EOT> singing 	#	true princesses	#	low spirits	#	knocking heard	#	sad plight	#	queen	#	bed	#	mattresses	#	scarcely closed	#	twenty mattresses	#	royal museum	#	<EOL> 
+princess <EOT> wild beasts	#	smoke rising	#	beautiful woman	#	poor irishman	#	answered kindly	#	enchanted princess	#	lies asleep	#	daylight appeared	#	slightest movement	#	laid hold	#	<EOL> 
+prince <EOT> under-lip hung	#	rope round	#	back quickly	#	round tower	#	hundred lamps	#	fine fellow	#	sugar pigs	#	high road	#	apron  slung	#	beautiful princess	#	great deal	#	<EOL> 
+king <EOT> under-lip hung	#	rope round	#	back quickly	#	round tower	#	hundred lamps	#	fine fellow	#	sugar pigs	#	high road	#	apron  slung	#	beautiful princess	#	great deal	#	<EOL> 
+queen <EOT> under-lip hung	#	rope round	#	back quickly	#	round tower	#	hundred lamps	#	fine fellow	#	sugar pigs	#	high road	#	apron  slung	#	beautiful princess	#	great deal	#	<EOL> 
+king <EOT> farmer sows	#	scarcely half	#	broken pane	#	marshy banks	#	cry bitterly	#	great magnificence	#	green stalk	#	brightest silver	#	terrified poor	#	pay calls	#	great wood	#	<EOL> 
+bird <EOT> farmer sows	#	scarcely half	#	broken pane	#	marshy banks	#	cry bitterly	#	great magnificence	#	green stalk	#	brightest silver	#	terrified poor	#	pay calls	#	great wood	#	<EOL> 
+prince <EOT> secretly plighted	#	long trouble	#	green cloak	#	gladly received	#	great feast	#	desert island	#	hermod disappeared	#	three-headed giant	#	pour plenty	#	ceased altogether	#	dead giant	#	<EOL> 
+lion  <EOT> secretly plighted	#	long trouble	#	green cloak	#	gladly received	#	great feast	#	desert island	#	hermod disappeared	#	three-headed giant	#	pour plenty	#	ceased altogether	#	dead giant	#	<EOL> 
+princess <EOT> preparatory knowledge	#	embroider braces	#	servants stood	#	sunday-best clothes	#	sat astride	#	slap  bang	#	slap bang	#	tightly packed	#	fine phrases	#	glass mirrors	#	 um	#	<EOL> 
+bee  <EOT> large mill	#	run hastily	#	fourth time	#	middle  telling	#	hives properly	#	millet seed	#	millet broke	#	single blow	#	great rain	#	tinder box	#	frightfully hot	#	<EOL> 
+prince <EOT> deadly earnest	#	distressed damsels	#	avoided 	#	wooden pillars	#	sun rose	#	voice weeping	#	horrible creature	#	dreadful fate	#	suddenly asked	#	promising faithfully	#	bounded high	#	<EOL> 
+prince <EOT> friend   asked	#	answer directly	#	kingdom depends	#	violent push	#	foster parents	#	shadow hung	#	nodded cheerfully	#	short cut	#	week  butter	#	sharp whistle	#	absolute stillness	#	<EOL> 
+frog  <EOT> sea coast	#	great mikado	#	fine morning	#	journey	#	conversation  explaining	#	good rest	#	kioto frog	#	front paws	#	stood  stretching	#	eyes beheld	#	long journey	#	grass	#	<EOL> 
+princess <EOT> suitable match	#	wealthy man	#	suitable son-in-law	#	beautiful pearl	#	moment  fell	#	early astir	#	blacker till	#	important business	#	looked back	#	completely defeated	#	eloquent speech	#	<EOL> 
+king  <EOT> laid bare	#	empty knowledge	#	goats  milk	#	firmly resolved	#	made straight	#	golden crown	#	closely entwined	#	loud shriek	#	sound skin	#	brightly lighted	#	silvery veil	#	<EOL> 
+lion <EOT> granted peace	#	back	#	gladly shed	#	weave 	#	head sadly	#	shining silver	#	managed  unseen	#	fullest speed	#	days passed	#	private apartments	#	small bits	#	<EOL> 
+monkey <EOT> granted peace	#	back	#	gladly shed	#	weave 	#	head sadly	#	shining silver	#	managed  unseen	#	fullest speed	#	days passed	#	private apartments	#	small bits	#	<EOL> 
+princess <EOT> tenderly embracing	#	terms  played	#	strong scent	#	trouble  cry	#	master knew	#	monarch looked	#	dove perched	#	vanished completely	#	good club	#	daughters  ribs	#	<EOL> 
+princess  <EOT> great university	#	voice   hado	#	till doomsday	#	coal black	#	white palfrey	#	owned land	#	laid siege	#	great river	#	black book	#	virgilius desired	#	<EOL> 
+bird <EOT> tottery legs	#	fatter grow	#	jackal thought	#	lambikin pass	#	lambikin replied	#	corn-bin	#	scarcely waddle	#	sit inside	#	wool inside	#	slip	#	met asked	#	tum-pa tum	#	<EOL> 
+wolf  <EOT> tottery legs	#	fatter grow	#	jackal thought	#	lambikin pass	#	lambikin replied	#	corn-bin	#	scarcely waddle	#	sit inside	#	wool inside	#	slip	#	met asked	#	tum-pa tum	#	<EOL> 
+prince <EOT> absent deliberating	#	quickly throw	#	successive days	#	balna turned	#	woman seized	#	cunning words	#	beautiful tree	#	grow thin	#	unkind  balna	#	deeply grieved	#	pomelo tree	#	<EOL> 
+princess <EOT> absent deliberating	#	quickly throw	#	successive days	#	balna turned	#	woman seized	#	cunning words	#	beautiful tree	#	grow thin	#	unkind  balna	#	deeply grieved	#	pomelo tree	#	<EOL> 
+princess <EOT> property  leaving	#	curious part	#	plenteous tank	#	dry throat	#	hungry mouth	#	kind hands	#	yonder forest	#	thousand pieces	#	servant  remember	#	poor animal	#	<EOL> 
+princess <EOT> hundred rupees	#	scamp   exclaimed	#	grass spread	#	great kindness	#	delicious foods	#	master ordered	#	terrible death	#	delicious dishes	#	fallen desperately	#	hag  holding	#	<EOL> 
+bee <EOT> hundred rupees	#	scamp   exclaimed	#	grass spread	#	great kindness	#	delicious foods	#	master ordered	#	terrible death	#	delicious dishes	#	fallen desperately	#	hag  holding	#	<EOL> 
+king  <EOT> things temporal	#	wild ducks	#	delightful spot	#	hold	#	air	#	open courtyard	#	bite hold	#	wanted	#	holding tight	#	season	#	measure meets	#	<EOL> 
+king <EOT> chief city	#	golden temple	#	golden rupee	#	back immediately	#	great pomp	#	brahmani told	#	provisions  sufficient	#	hand  rushed	#	completely sacked	#	stolen property	#	<EOL> 
+king  <EOT> gave judgments	#	judges sat	#	men speak	#	country places	#	high road	#	precipitous sides	#	thy carriage	#	asked	#	hundred leagues	#	kosala proclaiming	#	virtues _	#	benares called	#	<EOL> 
+king  <EOT> great deal	#	dense forest	#	small loin-cloth	#	robbers  minds	#	magnificent manner	#	commencing	#	erith men	#	companions commenced	#	enty rupees	#	ten men	#	tadingana _	#	cubits long	#	<EOL> 
+queen <EOT> great raja	#	parents hid	#	remain playing	#	raiment  fair	#	prince rasalu	#	back hastily	#	wrath died	#	horse bhaunr	#	sought shelter	#	rasalu sitting	#	fling      fighting	#	<EOL> 
+bird <EOT> great raja	#	parents hid	#	remain playing	#	raiment  fair	#	prince rasalu	#	back hastily	#	wrath died	#	horse bhaunr	#	sought shelter	#	rasalu sitting	#	fling      fighting	#	<EOL> 
+dog <EOT> shady trees	#	great feasting	#	king gave	#	mind interrupting	#	king   	#	heard	#	poor mother	#	broad plain	#	pleases khuda	#	broad jungle-plain	#	<EOL> 
+elephant  <EOT> shady trees	#	great feasting	#	king gave	#	mind interrupting	#	king   	#	heard	#	poor mother	#	broad plain	#	pleases khuda	#	broad jungle-plain	#	<EOL> 
+king <EOT> strange behaviour	#	laboured indefatigably	#	whithersoever kismat	#	corn ready	#	short distance	#	water land	#	perfect fool	#	greater part	#	pleasanter mode	#	simply wished	#	<EOL> 
+queen  <EOT> strange behaviour	#	laboured indefatigably	#	whithersoever kismat	#	corn ready	#	short distance	#	water land	#	perfect fool	#	greater part	#	pleasanter mode	#	simply wished	#	<EOL> 
+prince <EOT> marks beheld	#	gift  bade	#	reached mid-forest	#	deadly poison	#	club 	#	left 	#	young sir	#	bodhisatta meant	#	hands	#	carefully admonished	#	living virtuously	#	<EOL> 
+butterfly <EOT> happiness depend	#	till dawn	#	wonderful thing	#	ran past	#	sat silent	#	growing round	#	great fans	#	heart s-blood	#	green wood	#	beautiful eyes	#	felt sad	#	<EOL> 
+prince <EOT> royal bride	#	sorrowful leave	#	golden cup	#	ill behavior	#	rude speech	#	running stream	#	royal clothes	#	left standing	#	false bride	#	dark gate	#	city  driving	#	golden locks	#	<EOL> 
+princess <EOT> royal bride	#	sorrowful leave	#	golden cup	#	ill behavior	#	rude speech	#	running stream	#	royal clothes	#	left standing	#	false bride	#	dark gate	#	city  driving	#	golden locks	#	<EOL> 
+king <EOT> royal bride	#	sorrowful leave	#	golden cup	#	ill behavior	#	rude speech	#	running stream	#	royal clothes	#	left standing	#	false bride	#	dark gate	#	city  driving	#	golden locks	#	<EOL> 
+cat  <EOT> poor woodcutter	#	thickest part	#	wild beasts	#	peace  god	#	lazy things	#	sun shining	#	eyes closed	#	day broke	#	great scarcity	#	good god	#	feel tired	#	<EOL> 
+princess <EOT> mother gave	#	wound bound	#	extremely clever	#	sour ale	#	bring good	#	wonderful bird	#	great surprise	#	sticking fast	#	young man	#	parson called	#	made	#	<EOL> 
+prince <EOT> end approaches	#	peace	#	golden palace	#	paternal castle	#	beautifully painted	#	place till	#	ground insensible	#	great	#	wonderful beasts	#	golden vessels	#	strange man	#	finely worked	#	<EOL> 
+princess <EOT> end approaches	#	peace	#	golden palace	#	paternal castle	#	beautifully painted	#	place till	#	ground insensible	#	great	#	wonderful beasts	#	golden vessels	#	strange man	#	finely worked	#	<EOL> 
+prince <EOT> fish lifted	#	relations  friends	#	hundred years	#	threatened evil	#	golden key	#	deep sleep	#	high hedge	#	stuck fast	#	briar rose	#	prince	#	dogs asleep	#	drew  till	#	<EOL> 
+king <EOT> fish lifted	#	relations  friends	#	hundred years	#	threatened evil	#	golden key	#	deep sleep	#	high hedge	#	stuck fast	#	briar rose	#	prince	#	dogs asleep	#	drew  till	#	<EOL> 
+queen  <EOT> good woman	#	woman led	#	great injury	#	great quantity	#	dear father	#	brothers   asked	#	great part	#	short duration	#	human form	#	solemn resolution	#	simply shook	#	<EOL> 
+bird <EOT> loving  busy	#	greatest affection	#	sleep till	#	gave pleasure	#	head tucked	#	dove fluttered	#	dove drew	#	occasionally calling	#	curious playmate	#	sees daylight	#	good-natured beast	#	<EOL> 
+queen  <EOT> morning wash	#	great nail	#	behave badly	#	strawberries growing	#	green blade	#	knocked gently	#	back door	#	great glee	#	cooked meat	#	fire  began	#	miserable death	#	<EOL> 
+bird  <EOT> important business	#	great care	#	parrot told	#	telling tales	#	throw water	#	night	#	rain disturbed	#	killed	#	spoken	#	greek king	#	uncertain thing	#	zeal prompts	#	<EOL> 
+princess <EOT> crying bitterly	#	great surprise	#	devoured passers-by	#	arrived safe	#	mere smell	#	measure astonished	#	make good	#	strong guard	#	head speak	#	thing till	#	thing applies	#	<EOL> 
+king  <EOT> crying bitterly	#	great surprise	#	devoured passers-by	#	arrived safe	#	mere smell	#	measure astonished	#	make good	#	strong guard	#	head speak	#	thing till	#	thing applies	#	<EOL> 
+princess <EOT> traditions respecting	#	warm invitation	#	dust concealed	#	words  attacked	#	peace  making	#	miserable object	#	gladly ate	#	short coat	#	tolerable sum	#	bowed low	#	twenty years	#	<EOL> 
+bird <EOT> numerous islands	#	properly fitted	#	crew trembled	#	summit stands	#	horrible noise	#	lightest breeze	#	thou takest	#	stepped silently	#	hastily spread	#	sailors ran	#	removed  disclosed	#	<EOL> 
+elephant  <EOT> terrible wind	#	hideous savages	#	taking possession	#	paused  frozen	#	fierce bird	#	presently roasted	#	hard task	#	driftwood lies	#	wait patiently	#	terrible cry	#	safely stay	#	<EOL> 
+elephant  <EOT> long voyage	#	minute sweeping	#	speech discouraged	#	costliest merchandise	#	natural archway	#	roving disposition	#	lucky star	#	gloomy archway	#	black men	#	sudden return	#	fain eat	#	story  concealing	#	<EOL> 
+elephant <EOT> run risks	#	extraordinary experiences	#	thousand sequins	#	costly table	#	rich merchant	#	wildest part	#	mighty trench	#	heavy tread	#	dense underwood	#	ivory hill	#	<EOL> 
+king  <EOT> beautiful fish	#	lived close	#	added  holding	#	servant remounted	#	sacred ass	#	sun rise	#	great storeroom	#	naturally courageous	#	rope round	#	sun rose	#	asked indignantly	#	<EOL> 
+queen <EOT> human aid	#	named camaralzaman	#	growing idle	#	remained silent	#	sincerely grieved	#	great kingdom	#	camaralzaman declines	#	camaralzaman confides	#	amiable women	#	frightful  clever	#	suit mine	#	camaralzaman  pleased	#	<EOL> 
+queen  <EOT> great riches	#	number  maintained	#	grand treasurer	#	previous evening	#	bodily exercises	#	makes verses	#	fittingly dressed	#	young  foolish	#	equally captivated	#	toilet completed	#	beautifying effects	#	<EOL> 
+princess <EOT> earnest manner	#	delicate stews	#	higher flight	#	slightest intention	#	chief cook	#	great deal	#	possibly understand	#	wicked scheme	#	obtained permission	#	great beauty	#	needful publicly	#	<EOL> 
+queen <EOT> flowed close	#	red shoes	#	farthest end	#	boat drifted	#	presented arms	#	wide world	#	red  blue	#	private amusement	#	blue violets	#	pleasant dreams	#	<EOL> 
+princess <EOT> fatted lamb	#	naughty child	#	dark complexion	#	handsome muff	#	smoke disappeared	#	asleep  seemingly	#	girl laughed	#	fire  sang	#	coo coo	#	north pole	#	pure love	#	<EOL> 
+prince <EOT> lowest degree	#	cunning artificer	#	utmost importance	#	volcanoes vesuvius	#	evening prayer	#	angels descend	#	held fast	#	red berries	#	vegetation peeped	#	joyful meeting	#	mere talk	#	<EOL> 
+princess <EOT> lowest degree	#	cunning artificer	#	utmost importance	#	volcanoes vesuvius	#	evening prayer	#	angels descend	#	held fast	#	red berries	#	vegetation peeped	#	joyful meeting	#	mere talk	#	<EOL> 
+princess <EOT> children  children	#	step forward	#	great difference	#	green uniform	#	windows cut	#	sheer vexation	#	housedog snuffed	#	mild winter	#	true   exclaimed	#	leap-frog stood	#	sitting	#	possess understanding	#	foreign service	#	<EOL> 
+king  <EOT> high houses	#	warm lands	#	company arriving	#	watered 	#	reddish-brown wood	#	woman 	#	beautiful colors	#	actual entrance	#	living thing	#	drink coffee	#	shadowless man	#	<EOL> 
+dog <EOT> huge lumps	#	baking cakes	#	winter began	#	meal times	#	snow flew	#	boiling water	#	big spoon	#	big bowl	#	hot tin	#	bear cubs	#	silver saucer	#	<EOL> 
+bird  <EOT> child  simpler	#	blue sky	#	corn brandy	#	fine clothes	#	important business	#	long beard	#	good-day  grandfather	#	black crusts	#	full length	#	hatchet  worn	#	<EOL> 
+cat <EOT> playing bo-peep	#	kind words	#	hind legs	#	squeaky voice	#	baba yaga	#	fedor  god	#	girl hold	#	bundle wrapped	#	door watching	#	kind heart	#	<EOL> 
+princess <EOT> wonderful men	#	squirrels ran	#	fir cones	#	   leave	#	empty hands	#	fit gift	#	trouble lies	#	spreading boughs	#	open wings	#	fiery shields	#	princess vasilissa	#	<EOL> 
+bird  <EOT> wonderful men	#	squirrels ran	#	fir cones	#	   leave	#	empty hands	#	fit gift	#	trouble lies	#	spreading boughs	#	open wings	#	fiery shields	#	princess vasilissa	#	<EOL> 
+bird <EOT> vanya asked	#	shoot game	#	empty bag	#	blazing timbers	#	living things	#	birds stirring	#	paws  watching	#	black cinder	#	dog alive	#	good woman	#	<EOL> 
+princess <EOT> lies open	#	blue sea	#	silver beard	#	high walls	#	golden crowns	#	soldiers standing	#	whirling specks	#	grand council	#	richest man	#	simple folk	#	mighty bogatirs	#	<EOL> 
+king <EOT> easily speak	#	black slave	#	strange characters	#	mysterious characters	#	sire  thy	#	thy remembrance	#	field  scarcely	#	fro  seeking	#	sinking slowly	#	long astonishment	#	astonishment  heard	#	<EOL> 
+queen <EOT> easily speak	#	black slave	#	strange characters	#	mysterious characters	#	sire  thy	#	thy remembrance	#	field  scarcely	#	fro  seeking	#	sinking slowly	#	long astonishment	#	astonishment  heard	#	<EOL> 
+frog  <EOT> easily speak	#	black slave	#	strange characters	#	mysterious characters	#	sire  thy	#	thy remembrance	#	field  scarcely	#	fro  seeking	#	sinking slowly	#	long astonishment	#	astonishment  heard	#	<EOL> 
+dog  <EOT> magnificent prospect	#	rowed thither	#	vain enjoined	#	hasty flight	#	low descent	#	deserved  tended	#	purse full	#	sixth day	#	guitar  blended	#	appearance odious	#	<EOL> 
+king <EOT> turning round	#	og brought	#	passed og	#	radiance illumined	#	vast ocean	#	grow smaller	#	wander round	#	heavy bag	#	wonderful fruit	#	behave foolishly	#	<EOL> 
+princess <EOT> silken coverlet	#	sizes poured	#	nay  weep	#	years passed	#	fortunate mortal	#	long years	#	produced documents	#	mind unsound	#	feast suddenly	#	comrades assented	#	<EOL> 
+king  <EOT> magician jumped	#	big fellow	#	thy slumbers	#	conquer thine	#	excellent idea	#	ten years	#	queer questions	#	awkward questions	#	ground yesterday	#	single blow	#	<EOL> 
+king  <EOT> crown endure	#	hunting expedition	#	surprisingly fleet	#	found  lying	#	youth sprang	#	losing patience	#	children teased	#	wandered miserably	#	blind companions	#	sinned grievously	#	<EOL> 
+princess <EOT> drowned  loved	#	eyes opened	#	solemn fuss	#	stared hard	#	voice trembling	#	deeply learned	#	hands gleefully	#	precious stones	#	obey whatsoever	#	word engraved	#	<EOL> 
+queen  <EOT> drowned  loved	#	eyes opened	#	solemn fuss	#	stared hard	#	voice trembling	#	deeply learned	#	hands gleefully	#	precious stones	#	obey whatsoever	#	word engraved	#	<EOL> 
+bird  <EOT> walked straight	#	full understanding	#	mile long	#	narrow streets	#	moved slowly	#	evidently mistook	#	collecting twigs	#	living thing	#	whale began	#	lucky escape	#	small fish	#	<EOL> 
+king <EOT> stands to-day	#	chemistry frightened	#	living thing	#	machine-woman seated	#	great glee	#	hear   asked	#	thy people	#	great damage	#	sabbath commenced	#	loud noise	#	springing forward	#	<EOL> 
+king <EOT> silently moped	#	strange crew	#	original wizard	#	impertinent comment	#	simpler form	#	pronounce judgment	#	slightest effect	#	wondered gravely	#	hunting field	#	reason told	#	declared  petulantly	#	<EOL> 
+sheep  <EOT> silently moped	#	strange crew	#	original wizard	#	impertinent comment	#	simpler form	#	pronounce judgment	#	slightest effect	#	wondered gravely	#	hunting field	#	reason told	#	declared  petulantly	#	<EOL> 
+sheep  <EOT> exceptional daring	#	colored banners	#	bowed low	#	guardian angel	#	thy visit	#	boundaries belong	#	slave belongs	#	shouldst thou	#	tall trees	#	tired  ate	#	<EOL> 
+dog  <EOT> famous jumpers	#	jumps highest	#	green uniform	#	picture cards	#	house  cut	#	princess	#	undoubted goose	#	severe winter	#	horribly rude	#	long time	#	highest leap	#	things happened	#	<EOL> 
+angel  <EOT> heavy curtains	#	guardian angel	#	good angel	#	powerful fairy	#	humble cot	#	rude wind	#	solemn  earnest	#	silent steps	#	hammer resounded	#	angel  pointing	#	bridge built	#	<EOL> 
+queen  <EOT> lonely life	#	deepest holes	#	fairy tale	#	suddenly   	#	real cloth	#	beautiful sunshine	#	play 	#	wide world	#	postman gave	#	shining hat	#	wedding	#	<EOL> 
+queen  <EOT> faded to-day	#	grows dark	#	king lives	#	naval cadets	#	long curtains	#	yellow butterflies	#	lives close	#	professor walks	#	fingers  stung	#	witch riding	#	beautiful things	#	single word	#	<EOL> 
+king <EOT> slightest agitation	#	aged mother	#	great halls	#	burning sulphur	#	young princesses	#	violet tint	#	great ships	#	longest time	#	standing beneath	#	church steeples	#	church bells	#	<EOL> 
+crocodile <EOT> slightest agitation	#	aged mother	#	great halls	#	burning sulphur	#	young princesses	#	violet tint	#	great ships	#	longest time	#	standing beneath	#	church steeples	#	church bells	#	<EOL> 
+angel <EOT> shed tears	#	scarcely half	#	white horse-hair	#	swampy margin	#	water-lily leaves	#	bridal chamber	#	water beneath	#	green stalk	#	stood presently	#	tiny felt	#	<EOL> 
+butterfly  <EOT> shed tears	#	scarcely half	#	white horse-hair	#	swampy margin	#	water-lily leaves	#	bridal chamber	#	water beneath	#	green stalk	#	stood presently	#	tiny felt	#	<EOL> 
+queen <EOT> window-frames  crept	#	doctors declared	#	brought roses	#	class  age	#	blood-stained fame	#	lonely chamber	#	childlike affection	#	purer rose	#	sick child	#	young girl	#	child 	#	suffered death	#	<EOL> 
+cat <EOT> good education	#	skjagen peak	#	feathery tips	#	wanderer sank	#	projecting storeys	#	busy  bustling	#	sick father	#	intuitive feeling	#	feather dress	#	thousand pieces	#	<EOL> 
+bird  <EOT> neighbouring bush	#	lost floated	#	pipe softly	#	children swimming	#	heartily tired	#	sky shines	#	strews salt	#	red clouds	#	called peacocks	#	husband  kissing	#	horse-hair net	#	<EOL> 
+bird  <EOT> years ago	#	limits knew	#	deep sea	#	golden chair	#	large kingdom	#	black art	#	highest favor	#	constant employment	#	small creature	#	throat works	#	thousand lamps	#	<EOL> 
+bird  <EOT> fair time	#	brunswick 	#	unmarried men	#	make sport	#	young men	#	younger clerk	#	high-crowned hat	#	master resided	#	bitter lot	#	paper bags	#	great damage	#	<EOL> 
